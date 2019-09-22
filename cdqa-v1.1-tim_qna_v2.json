@@ -1,0 +1,736 @@
+{
+    "version": "v1.1",
+    "data": [
+        {
+            "title": "Caroline Paul\u00a0(#151)",
+            "paragraphs": [
+                {
+                    "context": "'Maria said that Caroline is all about living courageously and embracing adventure in our culture of safe achievement. That is music to my ears. I feel like we\u2019ve grown soft and weak, and it is time to remedy that with habits, practices, and stories that impart lessons.''On top of that, Caroline can probably kick my ass \u2013 and I\u2019m actually not kidding whatsoever about that. She is the author of four published books. The latest is the New York Times bestseller The Gutsy Girl: Escapades for Your Life of Epic Adventure. That does not mean this podcast is only for girls, women, or females. It is about overcoming fear. Once a scaredy-cat herself, Caroline decided fear got in the way of the life she wanted, including a life of excitement, confidence, self-reliance, etc.''She has since fought fires as one of the first female firefighters in San Francisco, flown planes, rafted big rivers, climbed tall mountains \u2013 like Denali \u2013 and much, much more.''In this episode we discuss various types of fear and how she has overcome them, or minimized them, and how you can do the same. So please enjoy my conversation with Caroline Paul.''Caroline, welcome to the show.''Caroline Paul: Thanks, Tim. I\u2019m really happy to be here.",
+                    "qas": [
+                        {
+                            "question": "Who was the author of The Gutsy Girl: Escapades for Your Life of Epic Adventure?",
+                            "answers": [
+                                {
+                                    "answer_start": 1119,
+                                    "text": "Caroline Paul"
+                                }
+                            ],
+                            "id": "7ff2bf41-6804-416b-a637-9a4f1f25d06c"
+                        },
+                        {
+                            "question": "Who is all about living courageously and embracing adventure in our culture of safe achievement?",
+                            "answers": [
+                                {
+                                    "answer_start": 1119,
+                                    "text": "Caroline Paul"
+                                }
+                            ],
+                            "id": "de3b8599-bfef-4ae6-b5f4-1d0f7affec28"
+                        }
+                    ]
+                },
+                {
+                    "context": " It sounds terrifying without the dead body. In that case, the bay is certainly larger than a swimming pool by many orders of magnitude. If you have such low visibility, how do you search for a dead body?''Caroline Paul: The worst way. You feel for a dead body. You swim very slowly with one hand holding a rope because you\u2019re guided from the top. You want to do a certain pattern. The other hand is reaching out very slowly and feeling. If you do the search pattern right, you cover a pretty wide area. And I\u2019ll tell you the things at the bottom of the bay are amazing \u2013 shopping carts, tires, pipes, cans.",
+                    "qas": [
+                        {
+                            "question": "If you have such low visibility, how do you search for a dead body?",
+                            "answers": [
+                                {
+                                    "answer_start": 221,
+                                    "text": "The worst way. You feel for a dead body. "
+                                }
+                            ],
+                            "id": "4f8f6d91-e9cf-4807-9987-638724103d77"
+                        }
+                    ]
+                },
+                {
+                    "context": " Oh, my god. The powdered crotch is ready for film adaptation. What makes a good firefighter?''Caroline Paul: That\u2019s a great question. I notice that, in the fire department, the guys I respected as firefighters were often not the strongest ones. They were fit, but they were often smaller and had a lot of street smarts. At first it confused me because supposedly for firefighting you have to be a huge brute because it\u2019s such a physical job \u2013 and it is a physical job. But it\u2019s a combination of physicality and smarts. At that intersection, you get an amazing firefighter.''You need to understand your physical limitations because everybody has them \u2013 even the strongest guy. The smaller guys did often understand their physical limitations and they used their smarts and grace. There was an elegance to the way they figured things out. I remember very clearly being on a stairwell once. It was super smoky and I was third down on the stairwell, lying there and waiting for the guy up top to make entry. He was whaling on the door with an axe. He was a big guy and the door just wasn\u2019t giving way.''I had a Chicago door opener, which is basically a pry bar. Usually, you never give up your equipment. If you give up your equipment, you\u2019re useless. I would never give up my equipment. But he was up there and I also had an axe, so I said, \u201cTake my pry bar. Take my pry bar.\u201d He\u2019s like, \u201cNo!\u201d And kept whaling at that door. I\u2019m telling you, it took so long for that door to come open because he thought, as a big guy, he could get that door open.''For me, I knew I had a pry bar and I would\u2019ve just stuck it in there. Somebody would give it one hit on the head and that door would\u2019ve popped open. That\u2019s the kind of thing you need as a firefighter as well.",
+                    "qas": [
+                        {
+                            "question": "What makes a good firefighter?",
+                            "answers": [
+                                {
+                                    "answer_start": 473,
+                                    "text": " it\u2019s a combination of physicality and smarts. At that intersection, you get an amazing firefighter."
+                                }
+                            ],
+                            "id": "84b379f1-17d7-493f-a394-f176f89c5f32"
+                        }
+                    ]
+                },
+                {
+                    "context": " What\u2019s a flashover?''Caroline Paul: When the room gets so hot that even the particles in the air simultaneously ignite.",
+                    "qas": [
+                        {
+                            "question": "What\u2019s a flashover?",
+                            "answers": [
+                                {
+                                    "answer_start": 37,
+                                    "text": "When the room gets so hot that even the particles in the air simultaneously ignite."
+                                }
+                            ],
+                            "id": "ded5bda0-294b-4ceb-92a5-afac150dc406"
+                        }
+                    ]
+                },
+                {
+                    "context": " 760-some-odd feet or something like that \u2013 how did you develop that ability? For someone listening who is like, \u201cGod, I\u2019m so fearful. How can I develop that same ability to take courage, desire, or enthusiasm and try to put it in front of this dominant emotion I have of fear?\u201d What would you say to them?''Caroline Paul: I am not against fear. I think fear is definitely important. It\u2019s there to keep us safe. But I do feel like some people give it too much priority. It\u2019s one of the many things that we use to assess a situation. I am pro bravery. That\u2019s my paradigm.",
+                    "qas": [
+                        {
+                            "question": "God, I\u2019m so fearful. How can I develop that same ability to take courage, desire, or enthusiasm and try to put it in front of this dominant emotion I have of fear?",
+                            "answers": [
+                                {
+                                    "answer_start": 323,
+                                    "text": "I am not against fear. I think fear is definitely important. It\u2019s there to keep us safe. But I do feel like some people give it too much priority. It\u2019s one of the many things that we use to assess a situation. "
+                                }
+                            ],
+                            "id": "a0501cd2-d07d-466a-b314-1b6836f1bb35"
+                        }
+                    ]
+                },
+                {
+                    "context": " For women who are listening and say to themselves, \u201cMy god. She\u2019s totally right. I was raised in a bubble of sorts. I don\u2019t want to have this default anymore. I want to condition myself to be able to contend with fear and put it in line.\u201d What would you say to them''Caroline Paul: I would say it\u2019s time to adopt a paradigm of bravery instead of a paradigm of fear. Weren\u2019t you acculturated much more to bravery? Fear wasn\u2019t really part of the conversation. It\u2019s the flipside, which is bravery.",
+                    "qas": [
+                        {
+                            "question": "I want to condition myself to be able to contend with fear and put it in line.\u201d",
+                            "answers": [
+                                {
+                                    "answer_start": 295,
+                                    "text": "it\u2019s time to adopt a paradigm of bravery instead of a paradigm of fear. Weren\u2019t you acculturated much more to bravery? Fear wasn\u2019t really part of the conversation. It\u2019s the flipside, which is bravery."
+                                }
+                            ],
+                            "id": "dce6ce23-e8fa-4046-be1a-d2765b53d417"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "BJ Miller\u00a0(#153)",
+            "paragraphs": [
+                {
+                    "context": " What \u2013 and this is a huge question, so we can certainly fine slice it and feel free to tackle it any way you like but what has observing that many deaths and the march towards death taught you about living? And specifically your own life?''BJ Miller: Well that\u2019s the perfect question. Those of us who work in the field of hospice and palliative care \u2013 it can feel like you\u2019re sitting on a secret and because I think the assumption is that, \u201cOh, wow, that\u2019s got to be very morbid.\u201d You know, it is. \u201cIt\u2019s got to be very morbid work\u201d or \u201cvery depressing work.\u201d And, sure, it is loaded. It is emotionally laden work without a doubt. I don\u2019t mean to make it sound easy. But those of use who work in the field, you pretty quickly get a real sweet hit that paying attention to this zone of life is very nurturing. So the sort of secret is that paying attention to the fact that you die can help you live a lot better. So a lot of my colleagues and I are very aware of the clock. Sure, that can make you anxious as well.''But we know \u2013 we\u2019re aware of our finitude. And so we\u2019re just a little more likely to be kind to ourselves and others and we\u2019re a little less likely to squander that time because we have all these sort of remarkable, vicarious deathbed moments with our patients and their families. And you can learn a lot. And one of the things I love thinking about \u2013 a real organizing theme for me is avoiding regret essentially and we avoid regret by, again, paying attention to our decisions, paying attention to how precious things are and getting very good at forgiveness and reconciliation. These are themes that play out in this work all the time. So in a sense, we\u2019re exercising these muscles on behalf of others that all of us need to exercise on behalf of ourselves at some point. We just get pretty well practiced at it. So this is where the work gets extremely beautiful and really nurturing and can help you live better.''I guess that\u2019s part of the drum beat. Why do we want to talk about this? Well there\u2019s some systems issues. There\u2019s some economic issues. But there\u2019s these beautiful civil issues on behalf of kindness, on behalf of justice and equality \u2013 the fact that we all die. Well, paying attention to this has all this potential for this to be a bond among human beings. The fact that we die and the fact that we\u2019re cognizant that we die \u2013 that\u2019s part of this drum beat.",
+                    "qas": [
+                        {
+                            "question": "what has observing that many deaths and the march towards death taught you about living? ",
+                            "answers": [
+                                {
+                                    "answer_start": 1399,
+                                    "text": "is avoiding regret essentially and we avoid regret by, again, paying attention to our decisions, paying attention to how precious things are and getting very good at forgiveness and reconciliation"
+                                }
+                            ],
+                            "id": "bdd0aa93-7f7e-4c46-bba4-cfaf513429c6"
+                        }
+                    ]
+                },
+                {
+                    "context": " So to drill into that \u2013 I apologize for interrupting, but because this is a particular Achilles\u2019 heel of mine and I\u2019ve improved \u2013 I think I\u2019m trending in the right direction over the last few years. But I have always had a lot of difficulty letting go of grudges and those loops that we tend to repeat. Or, at least, I tend to repeat and reinforce like a groove in a record \u2013 that can just create this \u2013 bitterness might be a strong word but it\u2019s not totally out of place. When you find yourself \u2013 when you catch yourself angry with someone or not letting go, what is the internal dialogue? What do you say to yourself? How do you ameliorate that?''BJ Miller: Well this is where meditation, mindfulness, self awareness, whatever you want to call it can be so helpful because one thing to just get better at is realizing you\u2019re doing it in the first place.",
+                    "qas": [
+                        {
+                            "question": "When you find yourself \u2013 when you catch yourself angry with someone or not letting go, what is the internal dialogue?",
+                            "answers": [
+                                {
+                                    "answer_start": 661,
+                                    "text": "Well this is where meditation, mindfulness, self awareness, whatever you want to call it can be so helpful because one thing to just get better at is realizing you\u2019re doing it in the first place."
+                                }
+                            ],
+                            "id": "23cdb868-5bf4-4d5f-a6ca-fc2c5d449a89"
+                        }
+                    ]
+                },
+                {
+                    "context": " Could you tell the snowball story?''BJ Miller: Yeah. So a burn unit is, like I said, a particular place. They\u2019re gruesome places. They\u2019re very difficult environments. The pain that the patients are going through is gut-wrenching. So working in a burn unit is very difficult. People often don\u2019t last in a burn unit very long as a clinician. It\u2019s incredibly difficult work. And we learn from wars over time. It\u2019s my understanding of certain medical history that the way burns often killed people is indirectly through infection. So once you\u2019ve disrupted the integrity of your skin, you\u2019re much more vulnerable to infection. Right? And so the thing that often kills burn victims after they\u2019ve survived the initial trauma is infection. So burn units are incredibly sterile environments. So everyone\u2019s gowned up, masked, gloved. For the first maybe several weeks, I could only have one person in my room at a time. It\u2019s extremely \u2013 you\u2019re in a bubble, in other words.''And therefore, you\u2019re cut off from everything. There\u2019s no day, night. Runs together. There was no window in my room. There\u2019s no \u2013 you\u2019re in a little cell. Even when people are at your bedside, there\u2019s all this garb in between you and them. You have no relationship to the natural world. You can touch nothing. And also you\u2019re in a fair amount of pain, of course, which does not necessarily reward your paying attention to anything. It\u2019s not fun. So this was November. At some point in December \u2013 maybe it was early January \u2013 and honestly, I can\u2019t remember who brought me the dang snowball. I can\u2019t remember.''There were two nurses in particular I felt very close to and it may have been one of them. I think it was. It may have been. Her name was Joi Varcardipone. It may have been Joi. But anyway it was snowing outside and I didn\u2019t know that.''I didn\u2019t know if it was night or day. She had the bright idea of just smuggling in a snowball to me so I could hold \u2013 so I could feel snow. Man, it was just stunning. What a simple little thing, right? But she put it in my hand and just feeling the contrast of that cold snow on my sort of crisp \u2013 the burnt skin. The obnoxious inflamed skin. And also watching it melt and watching the snow become water and the simple miracle of it was just a stunner for me. It really made it so palpable that we as human beings, as long as we\u2019re in this body, we are feeling machines and if we\u2019re cut off \u2013 if our senses are choked off, we are choked off. It was the most therapeutic moment I could imagine.''I would never have guessed this but just holding that snowball \u2013 first of all, the sensation. But also the implied, inherent perspective that it helped me make. Right? That everything changes. Snow becomes water. It\u2019s beautiful because it changes. Things are fleeting. It just felt so beautiful to be part of this weird world in that moment, you know? I just felt part of the world again. Rather than removed from it. It was potent.",
+                    "qas": [
+                        {
+                            "question": "Tell me the snowball story of BJ Miller",
+                            "answers": [
+                                {
+                                    "answer_start": 1763,
+                                    "text": "it was snowing outside and I didn\u2019t know that.''I didn\u2019t know if it was night or day. She had the bright idea of just smuggling in a snowball to me so I could hold \u2013 so I could feel snow. Man, it was just stunning. What a simple little thing, right?"
+                                }
+                            ],
+                            "id": "8a4a3f0f-bf21-4a07-b1f4-ebbf883c2797"
+                        }
+                    ]
+                },
+                {
+                    "context": " This is unrelated, but what do you think of, or who do you think of, when you hear the word successful?''BJ Miller: Hm. I think of \u2013 well, you know, you just pointed to something. That the relationship of self and the silliness of self, and the power of self, and I think we do ourselves disservices by playing the polemics around selfishness or selflessness. So there\u2019s a lot to say about that. But to segue to your question about success, on one hand I sort of think of it in terms \u2013 I guess I think of it as sort of a self-actualization. Someone who has realized \u2013 has played themselves all the way out. And that might be seen and appreciated by practically no one and therefore not make the measure of some external success.''But someone who has sort of become themselves, delighted in themselves, including their quirks and awkwardness, and played that self out, insisted on itself all the way to the end, to me that may be a version of success.''So I guess one part of my answer to your question is, I think of it as really an internal process. But then beyond that too, I guess I\u2019m a little torn here, because I agree that what I just said sort of focusses us and success back and into the self. And I suppose the second half of the question really has to do with orienting oneself to the other, everyone but oneself, and to the relational dynamics between the self and the other.''And so I think probably success may be \u2013 or the second half of it has to do with in a way maybe seeing yourself in others and others in yourself, and realizing the unseen connections between us all. And this is another reason I love our mortality. Is that it has the potential to be this equalizing, uniting force.''So anyway, so success may be this sort of self-actualized piece, but part of that self-actualizing is exploding the sense of self and feeling part of everything around you and vice-versa. That continence with the world around your, that seems like a great success.",
+                    "qas": [
+                        {
+                            "question": "What does BJ Miller thinks of the word successful?",
+                            "answers": [
+                                {
+                                    "answer_start": 731,
+                                    "text": "But someone who has sort of become themselves, delighted in themselves, including their quirks and awkwardness, and played that self out, insisted on itself all the way to the end, to me that may be a version of success."
+                                }
+                            ],
+                            "id": "10f74bab-f71c-4f2e-b2cf-08860b8abf9f"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Joshua Skenes\u00a0(#156)",
+            "paragraphs": [
+                {
+                    "context": "'And in this episode I am speaking with a friend I hadn\u2019t caught up with in a very, very long time: Joshua Skenes and that was my dog yawning in the background. Otherwise known as Josh Skene depending on whom you ask: S-K-E-N-E-S, jskenes@instagram has become famous for his use of fire as chef/owner of Saison in San Francisco, which has three Michelin Stars: one of the very first restaurants ever in San Francisco to receive three Michelin Stars.''He has classical training, which of course you\u2019d expect and loves his high-end Japanese nanohide knives \u2013 check them out \u2013 but nothing quite captures his imagination like the open flame. The back of his business card sports three words stark on its ivory stock: Play With Fire. That\u2019s what the back of his business card says and in this episode we explore three of his obsessions: simplicity, food, and the Martial Arts. We became friends first during collaboration for The Four Hour Chef, where he taught me about all sorts of incredible things and this was a long-overdue catch-up over lots of different types of tea.''So, I very much hope you enjoy it and if you have not yet checked out Five Bullet Friday \u2013 every Friday I send out a free short email; five bullets of the coolest things that I have found, discovered, uncovered that week \u2013 then you should check it out. It is free and has 70 plus percent open rates so people love it. It is found at fourhourworkweek.com/Friday; all spelled out and without further adieu here is Joshua Skenes. Joshua, sir \u2013 welcome to the show.''Joshua Skenes: Thank you for having me. It\u2019s nice to be here.",
+                    "qas": [
+                        {
+                            "question": "Who is Joshua Skenes?",
+                            "answers": [
+                                {
+                                    "answer_start": 253,
+                                    "text": "become famous for his use of fire as chef/owner of Saison in San Francisco, which has three Michelin Stars: one of the very first restaurants ever in San Francisco to receive three Michelin Stars"
+                                }
+                            ],
+                            "id": "7d5bd2cb-6036-4d15-a4f8-9876037c054c"
+                        }
+                    ]
+                },
+                {
+                    "context": " Can you describe that for people who are not familiar?''Joshua Skenes: The typical path to Chinese Martial arts as a kid \u2013 when you start really young you start in long fists, right. It\u2019s either southern or northern \u2013 you pick what\u2019s best for your body type \u2013 so if you have longer limbs then usually long fist is the way to go. And then you can choose after you do that for your years of basics. Once you get through your years of basics \u2013 which take 10 years or so \u2013 then you can kind of start to choose what you really want to specialize in or what you have the aptitude for, depending not just on your body type but also your sensibility and your movement.''And so I chose internal Martial Arts, which is the family of three: T\u2019ai Chi, Xing Yi, and Agua, so I chose all three of those and I started in T\u2019ai Chi because my teacher in Florida was a student of Chin Chao Wong and Chin Chao Wong was a really amazing T\u2019ai Chi teacher from Chin Village in China. I just traced up the lineage from there, so when I left Florida in high school I just traced the lineage back and started doing Xing Yi and Ba Gua and Ba Gua was always very interesting to me.''Then I just specialized in Ba Gua and then when I moved out \u2013 that was 10 years before I moved here and I moved here about 12 years ago \u2013 and then I moved out here and I traced my lineage back to the last surviving member Fu style Ba Gua and his name was Liang Xao Ya and he just passed away a couple of years ago. But I studied with him for about 10 years until his death. Oh \u2013 I was supposed to describe Ba Gua, right?",
+                    "qas": [
+                        {
+                            "question": "What are the three Martial Arts families?",
+                            "answers": [
+                                {
+                                    "answer_start": 731,
+                                    "text": "T\u2019ai Chi, Xing Yi, and Agua"
+                                }
+                            ],
+                            "id": "34a34d32-44b1-4dd4-8f63-c063f5215876"
+                        },
+                        {
+                            "question": "What is the typical path to Chinese Martial arts as a kid ?",
+                            "answers": [
+                                {
+                                    "answer_start": 124,
+                                    "text": "when you start really young you start in long fists, right. It\u2019s either southern or northern \u2013 you pick what\u2019s best for your body type \u2013 so if you have longer limbs then usually long fist is the way to go. And then you can choose after you do that for your years of basics. "
+                                }
+                            ],
+                            "id": "49d26876-b6d9-451e-b271-3f2ff13ff72a"
+                        }
+                    ]
+                },
+                {
+                    "context": "   What do you think has made Saison unique and successful as a restaurant?''Joshua Skenes: Well, I think at the end of the day it was about that actually; just the philosophy and the ethos of the restaurant because it started with just the food. I was asking myself a series of questions about what I thought about the food and the quality and the essential-ness of everything and I think that triggered everything else. That was really starting and saying; before we even started Saison it was just my thought process about how to create good food. Let\u2019s say I\u2019m making a dish and I eat; I eat to it and I get to it and I say, is this really the best version of this thing that I\u2019ve ever eaten or that I\u2019ve ever put in my mouth?''It\u2019s either yes or no and if the answer is no then I have to start over and I have to really think through the reality of what \u2013 and just keeping yourself grounded \u2013 and thinking, what is the reality of if Mr. Joe Robishon came in or something? What would he say? Or what would the best chef in Japan say? It was that kind of a process that I think is certainly influenced by Martial Arts. That\u2019s how it all started I guess.",
+                    "qas": [
+                        {
+                            "question": "What do you think has made Saison unique and successful as a restaurant?",
+                            "answers": [
+                                {
+                                    "answer_start": 156,
+                                    "text": "just the philosophy and the ethos of the restaurant because it started with just the food. "
+                                }
+                            ],
+                            "id": "86efe39b-8a89-4d79-b209-825f46d2317f"
+                        }
+                    ]
+                },
+                {
+                    "context": " It\u2019s just called Cocktail Techniques?''Joshua Skenes: Yeah \u2013 it\u2019s Cocktail Techniques I think. I think that\u2019s the guy. It could be a different guy, but a really cool book. I just gave those out to a bunch of my staff. The other one is The Art of T\u2019ai Chi Chuan or The Dao of T\u2019ai Chi Chuan and it\u2019s by a guy named Zhou Xuan Yun I think his name is \u2013 something along those lines, but it\u2019s a really amazing book on T\u2019ai Chi and it has a lot of epiphanies in there because he started T\u2019ai Chi when he was 40-something because of his bad health. So he was like on his death bed or something along those lines.''He had cancer or something like that and he apparently went through \u2013 he started from being completely unhealthy and then took as his journey through T\u2019ai Chi to become one of the foremost experts in America on T\u2019ai Chi.",
+                    "qas": []
+                },
+                {
+                    "context": " When you think of the word successful who is the first person who comes to mind?''Joshua Skenes: I don\u2019t have a person \u2013 to me success is living what brings you joy and I think doing whatever process brings you happiness I think is what\u2019s success to me and that\u2019s really all it is, right because at the end of the day it\u2019s freedom that matters. Whatever that freedom is to each individual is kind of what\u2019s important. For me it\u2019s just being in the woods. At some point I\u2019m just going to disappear and I\u2019m going to be in the woods. I\u2019ll see some of that Montana holdout \u2013 Skeens or something?",
+                    "qas": [
+                        {
+                            "question": "What does Joshua Skenes think of the word successful?",
+                            "answers": [
+                                {
+                                    "answer_start": 128,
+                                    "text": "success is living what brings you joy and I think doing whatever process brings you happiness"
+                                }
+                            ],
+                            "id": "2bdc11f2-37a4-4350-bcf9-56f2f90b7eb2"
+                        }
+                    ]
+                },
+                {
+                    "context": " What is in Hong Kong milk tea?''Joshua Skenes: Hong Kong milk tea is like; there\u2019s a mixture of black teas. Every place has their own brew \u2013 it can be different types of leaves like Darjeeling or Ceylon\u2019s or whatever. And then you essentially soak it in water and you over-brew it in some ways. It\u2019s a very high ratio of leaves to water and then you mix it with evaporated milk. Some people put sugar or sweetened condensed milk in there. I just take it straight, but it\u2019s something that I grew to love in Hong Kong. It\u2019s just an amazing thing in Hong Kong. It\u2019s addictive \u2013 it\u2019s highly, highly addictive. So, that\u2019s what I drink in the morning.",
+                    "qas": [
+                        {
+                            "question": "What is in Hong Kong milk tea?",
+                            "answers": [
+                                {
+                                    "answer_start": 48,
+                                    "text": "Hong Kong milk tea is like; there\u2019s a mixture of black teas. Every place has their own brew \u2013 it can be different types of leaves like Darjeeling or Ceylon\u2019s or whatever"
+                                }
+                            ],
+                            "id": "6a102dd9-c50b-4f42-af29-61f2c2f1a08f"
+                        }
+                    ]
+                },
+                {
+                    "context": " I think there\u2019s something there and my interest in T\u2019ai Chi at one point was pretty close to zero just because I was so focused on the harder fight sports like Muay Thai and so on, or jujitsu and in let\u2019s say the last five years my interest has really been piqued by a friend of mine named Josh Waitzkin who has been on \u2013 I have a podcast small world story  real quick \u2013 so I get this text at one point from Matt Mullenweg at one point, who I guess is the CEO of Automatic right now and was one of the lead developers of WordPress. And he goes; I was walking with my girlfriend through New York near the water and we saw this guy doing some weird Martial Arts stuff right on the water.''And so I was commenting on it and how it looked really beautiful to my girlfriend and she said; maybe you should walk up and say hi. So we walked up and said hi and it was another person who\u2019d done the podcast, Josh Waitzkin doing T\u2019ai Chi. Now, Josh was the basis for Searching for Bobby Fischer, this movie about this chess prodigy, which he was when he was a kid. But he was also a push-hands world champion and then after that became the first black belt under Marcello Garcia, who\u2019s like the Michael Jordan/Mike Tyson/Wayne Gretzky combined of Brazilian jujitsu.''I always associated T\u2019ai Chi with non-Martial applications, but he uses this and has prescribed it to his parents who have seen fantastic results for rehab, pre-hab, just life stability and well-being in general so even though he has a tremendous amount of experience with B.J.J. at an extremely high level he still does the T\u2019ai Chi on a regular basis which has made me think that I should probably make space for a practice of that type.''Joshua Skenes: I\u2019ll tell you what \u2013 there\u2019s a lot more to it than most people give credit for because the reason is that there\u2019s no good T\u2019ai Chi anywhere, right \u2013",
+                    "qas": []
+                }
+            ]
+        },
+        {
+            "title": "Mike Rowe\u00a0(#157)",
+            "paragraphs": [
+                {
+                    "context": "'This show is usually about deconstructing world class experts. And this show is no exception, although, instead of a stress prodigy or military strategist or an entertainment icon, we have perhaps the best storyteller and pitch man I\u2019ve ever had on this show. Certainly, he would give Cal Fussman a run for his money. And he is none other than Mike Rowe. Mike Rowe you may know from Dirty Jobs. But I\u2019m going to read his bio because I\u2019ve had enough to drink, and this is on mikerowe.com. And having spent some time with Mike now, this is very fitting. Here we go. I\u2019m going to read the entire paragraph.''So bear with me. This episode, I will say, is so worth listening to in its entirety because we cover how to sell a pencil, QVC, the meaning of freelance, the business of Mike Rowe, his mentors. We talk about some of this favorite influences and mentors.''We talk about favorite books. We talk about the art of voice over. We talk about Bruno Mars and how he became Bruno Mars. We talk about Orson Wells. It goes on and on and on. I had a blast with this. I just got back from spending some time after the interview with Mike. And I hope we have a Part 2 and a Part 3. I\u2019m with somebody next to me, and they\u2019re admiring my state of inebriation. Here we go. Mike Rowe from the website is a TV host, writer, narrator, producer, actor, and spokesman. His performing career began in 1984 when he faked his way into the Baltimore Opera to get his union card and meet girls. And that is true.''Both of which he accomplished during a performance of Rigoletto. His transition to television occurred in 1990 when, to settle a bet, he auditioned for the QVC Shopping Channel and was promptly hired after talking about a pencil for nearly eight minutes. There, he worked the graveyard shift for three years until he was, ultimately fired for making fun of products and belittling viewers.''So all of that is true, and we dig into it. And you should say hi to Mike on either and/or Twitter, and I\u2019m flipping through pages because I\u2019ve had too much to drink, @mikeroweworks. That\u2019s Twitter. Or on Facebook \u2013 wow, it just gets better and better, the Real Mike Rowe. This was a blast of a conversation that I\u2019ve wanted to have for 15, 20 years. And I hope you enjoy it. So say hello to Mike. And without further ado, here is my conversation with the inimitable Mike Rowe. Mike, welcome to the show.''Mike Rowe: I think you mean welcome to your living room.",
+                    "qas": []
+                },
+                {
+                    "context": " Just don\u2019t want to offend anyone at corporate if they might be listening. Susan, Suzanne, you have to be sensitive about these things. How did you end up working at QVC?''Mike Rowe: Honestly, in the same way I got most of my jobs back in the day. I lost a bet, and I crashed an audition.''I was singing. This was 1989. And I was in the Baltimore Opera. And it was during a performance of Der Ring des Nibelungen, I think, Wagner, Interminable Dirge. And I was dressed as a Viking. And I didn\u2019t need to be on stage for the intermission, obviously, but then for an hour after, which meant I could walk across the street and watch the football game at the Mount Royal Tavern dressed as a Viking, which, of course, I did. Look, if you haven\u2019t had a couple of beers and sung Wagner, I hardly recommend it, especially if you can put on the Viking helmet. Anyway, I walked into the bar, and my buddy, Rick, was pouring the beer.''But the game was not on. The Ravens were not playing. He, instead, was watching a fat guy in a shiny suit sell pots and pans. And I said, \u201cRick, what the hell are you doing?\u201d And he said, \u201cI\u2019m auditioning for that guy\u2019s job tomorrow. QVC is in town, and they\u2019re having an open cattle call down at the Marriott, and I\u2019m going to go see if I can get an actual job.\u201d''So I sat there dressed as a Viking drinking National Bohemian Beer and arguing with Rick over the demise of western civilization. And he bet me $100.00 I wouldn\u2019t get a call back if I accompanied him to the audition, which I did. And the next day, it\u2019s kind of a long answer to your question, but the next day, I found \u2013",
+                    "qas": []
+                },
+                {
+                    "context": " Okay. So what was the audition like? What was the audition process?''Mike Rowe: It was elegant in a way that I know you\u2019ll appreciate as a guy who values some measure of efficiency and effectiveness. And it was elegance personified by a company who had abjectly failed to create a workable audition process. So it\u2019s 1989. The home shopping industry is just at the part of the map where it says here be dragons. You can\u2019t hire an actor and expect him or her to know how to sell. You can\u2019t really hire a salesman and expect him or her not to shit the bed when somebody says action. So it\u2019s a very weird set of muscles. And the way they determined potential candidates, in my case, was they rolled a pencil across the desk while a camera was rolling.''And the man said, \u201cWhen I ask you to, I want you to pick up the pencil, and I want you to talk about it. And I want you to make me want it. I don\u2019t care how you make me want it. I don\u2019t care what you tell me to make me want it. I don\u2019t care if it\u2019s true or not. But I want you to harness whatever enthusiasm and passion you can muster for this No. 2 pencil, and do not stop talking until I tell you to.\u201d And I learned later that anybody who could do that for eight minutes was immediately hired and put on a three month probationary period where you were given enough rope to truly hang yourself from 3:00 to 6:00 a.m. every morning on live television.''So anyway, that\u2019s how it happened. I talked about a pencil for eight minutes.",
+                    "qas": []
+                },
+                {
+                    "context": " You were a ronin mercenary.''Mike Rowe: You were a mercenary.''And I just love the idea of going to Hollywood without an agent, without a manager, without a publicist, without a lawyer and booking as much work as I could. I didn\u2019t care about the work. I didn\u2019t care about the quality of the work. I didn\u2019t care if it was infomercials. I didn\u2019t care if it was books on tape. I didn\u2019t care if it was sitcoms or talk shows, didn\u2019t matter. I did it all or tried it all and got my share. So by 1995, I had had dozens and dozens of jobs in Hollywood and New York and feeling kid of arrogant the way you do when you think you figured something out that most people haven\u2019t.''And so I was freelancing. And many, many jobs, eight months on, four months off, I pattered my whole that part of my career after John D. McDonald\u2019s Travis McGhee, in fact. A guy who took his retirement in early installments.''And I just loved it. American Airlines was one of maybe 300 jobs that I Forest Gumped my way into.",
+                    "qas": []
+                },
+                {
+                    "context": " And in what capacity were you working?''Mike Rowe: Well, American, in \u201995, realized how valuable the real estate was in their planes on a screen. You\u2019ve got 300, 400 truly captive business travelers. So they had been doing advertising. But they hadn\u2019t really been going after it. And so they made big deals with MCI and Xerox and, in the day, all of the usual suspects. All they needed was content. And so they hired this company who wound up hiring me to create a show called On Air TV. Nobody cared what the show really was as long as it was family friendly, as long as it unfolded in destination served by any of American\u2019s routes.''So I would fly anywhere in the world, land in Copenhagen, land in Sydney, Las Vegas, didn\u2019t matter, and I\u2019d spend three days there. And I would do a show about that town. So basically, I\u2019m a tourist doing all the fun things you would do in any of those places. Its purpose, like any content really, is just to provide a landing place for the advertising. But for me, as a 32 year old kid out there in the world, it was maybe the best freelance gig I ever had because they issued a thing called a D3. And a D3 in airline parlance is called an MF, or a must fly.''If you walk up to the gate, and this is pre-9/11 obviously, but if you walk right up to the gate, show them the D3, the agent takes it, looks at it, her eyebrows go up because you don\u2019t see a lot of them. It\u2019s just for the board, basically.''Picks up the phone, calls a number, hits in a code, and you get on the plane. You fly first class, even if they have to pull someone off. Mine was a D3 plus one because I always had a camera man, and we were on airline business. And we flew last minute often. So this went on for about a year while we were in production for this show called On Air. And then, a guy name Crandall came in, I think it was Crandall, American Airlines, and that space became even more valuable.''And they decided to do a deal with Brandon Tartikoff and NBC and brought in Seinfeld and some other legitimate shows to really justify the advertising, which meant I was out of a gig again. But they never took the D3 back.",
+                    "qas": []
+                },
+                {
+                    "context": " And if this is not something you talk about or don\u2019t want to talk about, that\u2019s totally fine, but I\u2019m so curious. When you sold those shows to Discovery, were you able to negotiate back the rights, or did you have them in the first place? Or how did that work?''Mike Rowe: Yeah. I\u2019m kind of simplifying and overstating a little bit. I took Dirty Jobs everywhere and heard no in as many ways as a person can hear no. It was too gross for CBS, not gross enough for Fox, too funny for PBS, not funny enough for Comedy Central. I mean, around and around we went.''And I, eventually, showed the pilot to a guy named Craig Piligian who runs Pilgrim Films and Television. And he, actually, owed me a favor, I think, because a couple of years earlier, I hosted a complete abortion called Worst Case Scenario, which aired on TBS. And he produced it, and I hosted it. And he said, \u201cLook, if I can ever help you,\u201d so I gave him this pilot. It, basically, was a pilot of me collecting semen from a bull called Hunsucker Commando.''And he showed this to Discovery, and Discovery was like, \u201cLook, that\u2019s weird. It will never work, but let\u2019s talk to that guy,\u201d not even knowing that they had hired me 10 years earlier in 1993 to host a show called Romantic Escapes, which turned out to be neither. But anyway, I often say Romantic Escapes was me and a pretty girl going around the world creating the illusion of romance in five star hotels.''From there, I worked my way up to the sewer and finally got a career started.",
+                    "qas": []
+                },
+                {
+                    "context": " So you are very good at crafting a compelling pitch. And I\u2019ve witnessed this I many different capacities. But to go back to one of the stories you just told about pitching Discovery Channel, you have this, you have this, you don\u2019t need more of this. This is what I\u2019m proposing. And getting that deal done, how did you plan that meeting? Or did you walk in and free associate?''Mike Rowe: A little of both. I think it was 1986, I guess. I had been out of college a couple of years.''I was flicking around. And in those days, when you flicked around, you got up and walked over to the TV and turned the dial. So I\u2019m flicking around. And I saw a documentary on the Discovery Channel, and it was the first time I had seen it. And I was utterly enamored of the brand, the idea, the notion, the idea of satisfying curiosity. And I said I\u2019m going to work for these guys one day. And so that was the first thing in the back of my mind. And as a viewer from \u201986 until \u201902, I was with them all of the time and Nat Geo and all the usual suspects. But I love Discovery, and I love the story of John Hendricks, one of the greatest entrepreneurs who ever lived.",
+                    "qas": []
+                },
+                {
+                    "context": " I\u2019m going to plead ignorance. What is a vicarage? I feel like I read it a thousand times, and I don\u2019t know what it is.''Mike Rowe: I think it\u2019s like the Vicar of such and such. So if you\u2019re the vicar, it\u2019s some sort of priest meets [inaudible] kind of thing. Anyway, he\u2019s in this old house, this ancient house, and he walks up to his attic one day to get something. It\u2019s a huge attic. And he goes down a corridor, and then, he makes another turn, and he finds a door he didn\u2019t think he had. And he opens the door in his attic, and he walks through it.''And it takes him out between two dormers onto his roof. So he\u2019s standing on his roof having walked through a door he didn\u2019t know he had, and he\u2019s looking around at the church next to him. And he sees that the church is sinking into the ground. And he\u2019s like what the hell is going on? Not in real time, but he sees that it has sunk. So he calls the local historian, brings him up into his house, into the attic, through the magic doorway and out onto his roof. And he says to him, \u201cWhat the hell is going on with the church? It\u2019s sinking.\u201d And the historian laughs and says, \u201cNo, the church isn\u2019t sinking.''But the graveyard around it is exactly what a graveyard is. It\u2019s doing what a graveyard does when a graveyard is filled up.\u201d And Bill says, \u201cWhat do you mean?\u201d And he said, \u201cBill, how long do you think that church has been here?\u201d He said, \u201cAbout 700 or 800 years.\u201d''\u201cIt\u2019s more like 1,100. How many people do you think have lived in this little hamlet during that period of time?\u201d \u201cI don\u2019t know, a few thousand.\u201d \u201cActually, it\u2019s closer to a million. How many people do you think are buried there? What you\u2019re looking at is the history of many, many years and all the anonymous people who have been buried here. And it looks like the church is sinking, but it\u2019s not that at all.\u201d And that\u2019s when Bill Bryson decides to write At Home, a look at the history of the world as told from all of the different rooms in his house. So in his bathroom becomes the history of plumbing. In his great hall, becomes the history of entertaining.",
+                    "qas": [
+                        {
+                            "question": " What is a vicarage?",
+                            "answers": [
+                                {
+                                    "answer_start": 202,
+                                    "text": "it\u2019s some sort of priest meets [inaudible] kind of thing"
+                                }
+                            ],
+                            "id": "75424c1b-f488-4a4c-9ce7-73e5bce33467"
+                        }
+                    ]
+                },
+                {
+                    "context": " And if you could give an example of could you tell us about one episode that you particularly enjoyed and the process of creating it? How you chose the person, how you chose the story line, etc.''Mike Rowe: Sure. Well, the one I just did I haven\u2019t recorded yet, so I hate to give it away. But so Bruno Mars and I\u2019ll just tell you how it ends.''Everybody knows him, but I was watching the Super Bowl a couple of years ago, and I\u2019m watching this kid on the biggest stage there is absolutely killing it, this unbelievable crossroads of pop and rock and funk and just wow. What\u2019s his deal? And I read a lot of stuff that anybody can find really, really simply by doing a simple Google search but went a little deeper and found what I thought was an interesting hook. His dad, in the delivery room, was playing oldies. And his mother was a Filipino hula dancer. And the guy was surrounded by music his whole life. And his parents were, basically, in a traveling variety show.''And he was imitating Elvis Presley at 3 years old. And I looked at some old footage of it, and it was amazing. And he was imitating Michael Jackson.''And it was incredible. And he was imitating Little Richard. And it was breathtaking. And this guy was a genius mimic. And so I started thinking how does this genius mimic wind up becoming somebody so completely original? And so that was my sort of okay, I\u2019m going to tell a very, very simple story. And I\u2019m going to unwind it, but that\u2019s the theme that I want to kind of find. And usually with these things, you start writing them not quite knowing how they\u2019re going to end. And it takes care of itself. And so in this case, it was interesting because his name was Peter Hernandez in real life.''So this is really a story of Peter Hernandez, a guy who is impersonating Elvis, Little Richard, and Michael Jackson who, at 17 years of age, decides to go for it. He moves to Hollywood, spends his last dime, gets immediately signed by Motown and gets immediately put in the Latino heart throb box.''And everybody wants the next Enrique Iglesias. But Peter, he doesn\u2019t want to be that. Peter wants to be the next Peter Hernandez. He wants to be a little Michael Jackson, a little James Brown, a little Elvis Presley. And he goes broke, and he loses everything. And he refuses to sing in Spanish. So it\u2019s really a story about how Peter Hernandez gets down to his last nickel and decides something has got to give. And he walks outside, and he looks up into the heavens, and he laughs because he finally sees his name in lights.''He\u2019s looking at the stars. And he chooses for his last name a planet that\u2019s truly out of this world. And for his first name, he remembers his father\u2019s favorite wrestler, Bruno San Martino.''And so we learn that what Peter Hernandez does is simply change his name not as the first thing that most people do who come to town but as the last thing. The last thing he wanted to give up was his heritage. But he had to because everybody looked at him as this very, very narrow performer, this Latino heart throb. So when Peter Hernandez became Bruno Mars, he was immediately resigned by Atlantic Records. And within a year, his first album was going bananas. Within a year and a half, he had sold over 130 million singles. And a couple years after that, there he is on my screen during Super Bowl 48.''And that\u2019s how that happened. So it could be as simple as a Wikipedia entry. I could tell you the story a dozen different ways. But what I\u2019m trying to do with these little stories on the podcast is find the big transformational moment, the peripeteia in everybody\u2019s life and find a way to unwind it in five minutes or so.",
+                    "qas": []
+                },
+                {
+                    "context": " Now, could you just elaborate for a second on the work ethic scholarships? What does that mean?''Mike Rowe: So in 2008, when the economy went sideways, Dirty Jobs was in 212 countries and the No. 1 show on the network. And I was doing well. And everybody I talked to on the show that owned a business was telling me an extraordinary thing.''And that was the biggest challenge that they were facing was technical recruiting, really any kind of recruiting. Help wanted signs everywhere I went on Dirty Jobs while the headlines are screaming about 10 and 11 percent unemployment. So I realized there was a huge parallel but conflicting narrative going on in the country with respect to work. And the skills gap, as it existed in 2008, included maybe 2.1, 2.1 million jobs that existed that people either weren\u2019t trained for or just simply didn\u2019t want. Today, the number is more like 5.8 million.''I decided that it would be good for the show and good for me and, hopefully, good for the businesses that allowed us to thrive to set up a foundation that functioned as a PR campaign for jobs that actually existed.''These are not the glamorous jobs. But these are jobs that make civilized life possible. And that PR campaign morphed into a bunch of trips to congress and a bunch of partnerships with the Fortune 200. And then, ultimately, into an attempt to reward the kind of behavior that we actually wanted to encourage, which was work ethic. Most scholarship programs, as I\u2019m sure you know, reward the usual stuff, academic achievement, athleticism, talent, and, of course, basic need. I didn\u2019t think anybody was making an affirmative case for work ethic. So we look for kids. I\u2019m less interested in your GPA.''I\u2019m more interested in your attendance record. I\u2019m more interested in people who will make a case for themselves with respect to the reasons why I should pay for them to become a plumber or a welder or a steam fitter or pipe fitter or any of the jobs my granddad did intuitively.''That\u2019s what the foundation is. And it\u2019s been around since Labor Day of 2008. And every six months, we release another tranche of money raised mostly from our chronic, low rent telethon that really never seems to end. It involves me hawking the crap out of my garage, mementos from Dirty Jobs, in a style not unlike the old QVC days where I\u2019m now using my powers for good.",
+                    "qas": []
+                }
+            ]
+        },
+        {
+            "title": "The Secrets of Gymnastic Strength Training\u00a0(#158)",
+            "paragraphs": [
+                {
+                    "context": "'And I have no affiliation with it insomuch as I get no kind of affiliate anything, payout, whatever. I\u2019m just fascinated by body weight training and reached out to Coach Sommer to try to finally practice gymnastics as a 38-year-old. And I\u2019ve learned a lot. We\u2019ve been toying around with things for about six weeks now, as of this recording. And we\u2019re doing 90 day custom test. So I hope to have some very interesting before and afters for you guys. So we will be doing a Round 2 follow up. As a world renowned Olympic coach, Sommer is known for building his students into some of the strongest, most powerful athletes in the world.''And you\u2019ve got to check out his Facebook page. He features a lot of these athletes. It is bonkers. During his extensive, 40-year coaching career, Coach Sommer too, meticulous notes on his training techniques, his wins, failures, and so on so that he could translate the best elements into a superior exercise system for both high level and beginner athletes.''His four decades of careful observation led to the birth of gymnastics strength training, not vocal strength training because I\u2019m failing in that department, otherwise known as GST. In this episode, we cover a ton of stuff. And I think it\u2019s going to light up the internet because everybody has a strong opinion these days. But Coach Sommer is very well qualified to have the opinions that he holds. We talk about the biggest mistakes of self taught hand stands, why recreational athletes who try gymnastics get injured. Most commonly, we talk about the three to five exercises everyone should be doing.''Chances are, you\u2019ve never heard of some of them. We talk about mental prep for athletes who are going into big competition. The questions you should ask a coach before sending your kid to gymnastics. We get into what is wrong with yoga handstands. The questions or opinions that he might pose or have related to kipping pull ups in cross fit and elsewhere.''And I asked that question because a mutual friend said if you want him to lose his shit, ask about kipping. We have the determination of GST, this gymnastics strength training goals. If you could only pick one, what would it be and why? Who are the best coaches he\u2019s met? What characterizes them? It just goes on and on and on. If you want to build mass in the biceps, how you can utilize straight arm work. And why you must turn your hands out past parallel when training the rings. Why is that important? How does it affect muscular development and strength development? Why do you need to fix the lats to fix the shoulders? It does on and on and on.''This is a very in depth conversation. We get into the weeds. And I would just say be patient. There are a lot of gems here. And similar to the Dominic D\u2019Agostino episode on ketosis and the end of cancer and so on and so forth, we really get into some nitty gritty detail. And that is why many people listen to this podcast.''So just bear with me. If you\u2019re like what the hell are these guys talking about, give it 30 seconds. Chances are that we\u2019ll zoom back up to 30,000 feet or change topics. So stick with it, and please enjoy this very wide ranging, intense conversation with Coach Christopher Sommer. Coach, welcome to the show.''Coach Sommer: Thanks, Tim.",
+                    "qas": [
+                        {
+                            "question": "Who is Coach Sommer?",
+                            "answers": [
+                                {
+                                    "answer_start": 491,
+                                    "text": "As a world renowned Olympic coach, Sommer is known for building his students into some of the strongest, most powerful athletes in the world"
+                                }
+                            ],
+                            "id": "0ac54908-052f-444d-b9e2-58275ecd31f9"
+                        },
+                        {
+                            "question": "What is GST?",
+                            "answers": [
+                                {
+                                    "answer_start": 1054,
+                                    "text": "gymnastics strength trainin"
+                                }
+                            ],
+                            "id": "9105d086-4795-4ecb-9615-4744d51f5c3c"
+                        }
+                    ]
+                },
+                {
+                    "context": " And I thought we could start with just some definitions. So how would you define gymnastics strength training, GST?''Coach Sommer: That\u2019s a good question. In a nutshell, gymnastics strength training I\u2019d define as high level body weight strength training. So none of the technical training that we do for world class performance or the acrobatics or technical gymnastics, just purely the strength, joint prep, and mobility components.",
+                    "qas": [
+                        {
+                            "question": "how would you define gymnastics strength training, GST?",
+                            "answers": [
+                                {
+                                    "answer_start": 171,
+                                    "text": "gymnastics strength training I\u2019d define as high level body weight strength training."
+                                }
+                            ],
+                            "id": "450aced5-6885-4feb-ac80-dd3233bd116b"
+                        }
+                    ]
+                },
+                {
+                    "context": " And one example of what not to do, perhaps, or how gymnastics strength training might differ from the esthetics that some people I\u2019m not going to say compromise with but choose, we were talking about doing a pike handstand press or holding that position. And the example, and feel free to correct my recollection, but was of how a lot of folks kick their hips way out to counter balance instead of doing what? What would the gymnastics strength training version of that look like?''Coach Sommer: A good example. So what we see, and this is kind of getting into some handstands, some skill training, but handstand done correctly is a reflection of physical preparation that athlete either has or does not have. So if they lack strength, if they lack mobility, then, of course, their technical handstand is going to lack refinement. So in terms of that pike handstand, if they lack middle trap, if they lack lower trap strength, then, they\u2019re going to try to counter balance by really arching the chest out, sticking the butt way back behind them. Goodness, I\u2019m not even sure how to describe it like a pike and an arch at the same time.",
+                    "qas": []
+                },
+                {
+                    "context": " Right. So just to paint another picture for folks, if you stand up, and then, interlaced your fingers behind your tailbone with your arms straight, and then tried to lift them up towards the ceiling keeping your back straight. So the shoulder extension.''Coach Sommer: And what we find is \u2013 and a lot of what we\u2019ll get sometimes from people is, well, I don\u2019t want to be in the circus. I don\u2019t want to be an acrobat. I\u2019m not interested in skill training. I want strength. And what they don\u2019t understand is if you want to achieve world class levels of performance, technically, that comes first from having a solid foundation of physical preparation, which means correct range of motion, good mobility, good connective tissue. So a shoulder extension becomes \u2013 so for example, a lot of people fail.''They can\u2019t do muscle ups because they can\u2019t do shoulder extension. They think, in their head, that a muscle up is a chin up, a little bit of transition that they don\u2019t understand, and then, a dip. What really happens is we do a pull up, we get our hands to our chin, and then, the elbows pull back behind the torso behind them, and there\u2019s their shoulder extension. If they can\u2019t do shoulder extension, now, they\u2019re stuck. And they have to spend all of this time working technique and doing rep and doing rep. And what they\u2019re doing is they\u2019re treating the symptom and not actually the problem.",
+                    "qas": [
+                        {
+                            "question": "How does a shoulder extension look like?",
+                            "answers": [
+                                {
+                                    "answer_start": 52,
+                                    "text": "if you stand up, and then, interlaced your fingers behind your tailbone with your arms straight, and then tried to lift them up towards the ceiling keeping your back straight."
+                                }
+                            ],
+                            "id": "1031638c-6e1f-4398-8ced-307a84fc1646"
+                        }
+                    ]
+                },
+                {
+                    "context": " Just from the little bit that we\u2019ve done. And the follow up question to that is, for instance, when people are training for handstands at home, so self taught, what are the biggest mistakes that they make?''Coach Sommer: Well, they won\u2019t like the answer. And this is a little bit of national team coach attitude coming out. People tend to want what they want when they want it. And that\u2019s fine if I\u2019m looking for mediocre to average results. If I\u2019m looking to really do best effort, then, I\u2019ve got to back shit up, and I\u2019ve got to take care of my business.''And for most of the adults, it\u2019s going to be they have severe compromises in their mobility. Their shoulders don\u2019t work well. Their hips don\u2019t work. Their knees don\u2019t work. Their elbows are shot. Their forearms are tight from all of the desk patrol. Their calves are like piano wire from sitting all of the time. We won\u2019t even talk about hip flexor. Their scaps don\u2019t move. Their scapula have no motion. They can\u2019t protract. They can\u2019t retract. Their spine is locked in just a flat or kyphoid. So they\u2019re hunched over. Their lower back is continually arched. And they\u2019re just kind of frozen in this position.''And then, they want to try to move their body. Now, the common one that we get from people is these are extreme ranges of motion. These are artificial ranges of motion. And actually, these are your natural range of motion. The problem is they quit using it. And so it just atrophied.''So we\u2019re not doing anything special. We have to recreate that natural range of motion first. We\u2019ve been doing, gosh, I don\u2019t know now, maybe since 2006, working with the adults. And the thing that we keep having my nose rubbed in it over and over and over again, every time I think I have it down, I find I need to take it further is just the complete utter lack of joint prep and mobility they come to the table with. And if we do \u2013 even your own case is an excellent example. We haven\u2019t done anything advanced yet. We\u2019re doing all the basic. We\u2019re doing fundamental stuff. And you\u2019re already feeling better than in years.",
+                    "qas": [
+                        {
+                            "question": "when people are training for handstands at home, so self taught, what are the biggest mistakes that they make?",
+                            "answers": [
+                                {
+                                    "answer_start": 563,
+                                    "text": "for most of the adults, it\u2019s going to be they have severe compromises in their mobility"
+                                }
+                            ],
+                            "id": "5e55a00a-676d-41d4-b4a8-28c04f73dac7"
+                        }
+                    ]
+                },
+                {
+                    "context": " Well, I think a lot of it has to do with two things, if I\u2019m trying to self diagnose. The first is identifying musculature and motor pattern that I simply had not developed properly previously. Even if I had a passing familiarity like let me frame this in the form of a question.''So how do most people \u2013 can you define what the hollow position is, why it\u2019s important, and how do most normals do when they do a say hollow body rock? Maybe you can explain that, too.''Coach Sommer: So most people, when they think of abs, they think lower abs, they think upper abs. They\u2019re not going to think about obliques at all, and they\u2019re not going to think transverse abdominis at all. So lower abs are easy, upper abs easy, obliques, okay, they understand the sideways. They don\u2019t understand how obliques wrap around into the lats, into the lower back. Okay, that\u2019s fine. But transverse abdominis, they\u2019re like excuse me. Was that English? They don\u2019t have a clue. And that\u2019s what supports the body when it\u2019s in a straight body position.''For example, ab rollers, we don\u2019t use them in our program, but just as an example, ab rollers were getting a bad knock that if you do an ab roller, you\u2019re going to hurt your lower back. Well, yes and no. You\u2019ll hurt your back if you\u2019re doing it wrong, if you are arched in your lower back.''So for definitions, if my lower back is arched, I\u2019m in anterior pelvic tilt. If I\u2019m the opposite movement, and my tailbone tucked under, my lower back is flat, that\u2019s posterior pelvic tilt. When my body is horizontal, then, my back is supported when I\u2019m posterior pelvic tilt. If I\u2019m arched, it\u2019s unsupported by the musculature, and I\u2019m hanging by the disk.",
+                    "qas": []
+                },
+                {
+                    "context": " Yeah. It\u2019s a fantastic gym.''And we did quite a few hours of various assessments. If somebody wanted to try to self assess or videotape themselves to have someone qualified in gymnastics assess them, if you were to do an 80/20 analysis, which movements or exercises give you the most data?''Coach Sommer: The most bang for the buck? Let\u2019s see. So what we went over with you, we checked hanging leg lift. Hanging leg lift automatically is going to tell me dynamic range of motion.",
+                    "qas": [
+                        {
+                            "question": "if you were to do an 80/20 analysis, which movements or exercises in gymnastics give you the most data?",
+                            "answers": [
+                                {
+                                    "answer_start": 387,
+                                    "text": "hanging leg lift. Hanging leg lift automatically is going to tell me dynamic range of motion."
+                                }
+                            ],
+                            "id": "24772185-48c2-4399-b0bb-a6f635e741eb"
+                        }
+                    ]
+                },
+                {
+                    "context": " Yeah.''Coach Sommer: Okay. So the lumbar, the lower back, is not designed to have a ton of movement in it and a big arch. Your thoracic spine, your upper and middle back, they\u2019re designed to have a lot of movement. They\u2019re designed to rotate. The lower back is not. But when most people do their bridge work, they\u2019re so compromised now \u2013 even back up a little bit more. They\u2019re so compromised in range of motion of their upper body because they\u2019ve been hitting the weights hard. They\u2019ve been doing just a lot of high intensity training. Now, to preface that, there\u2019s nothing wrong with that. There\u2019s nothing wrong with that at all.''If you weren\u2019t one of God\u2019s gifts when you were born, you\u2019ve got to do something to make up the deficit. The problem is when they do all of that weight training, they\u2019re not doing it in balance and maintaining their mobility. If they had, they wouldn\u2019t have the issues that they ran into. So if all you do is strength, strength, strength, strength, and you can always tell someone who they\u2019re the curl king, and they\u2019re the bench press king.''And they come in, and they\u2019re hunched over. And their elbows don\u2019t straighten. Their arms don\u2019t go behind them. And they\u2019re like my shoulders are killing me. Most of the time, what we found is their shoulders are completely F\u2019d up. I agree. But their biceps are crazy tight also. And that bicep runs up through the front of the shoulder. And it\u2019s manifesting itself as a shoulder issue. So kind of all of these come together, long story short, to cause them a huge problem being able to get into a proper bridge, which should be all upper body, no lower back almost at all. But people are doing the exact opposite.''They hurt their lower back. And they say, man, these bridges are dangerous. No, the bridges aren\u2019t dangerous. Doing them half assed and wrong without vetting your source of information is dangerous.",
+                    "qas": []
+                },
+                {
+                    "context": " And so what did you do with him in the bridge? Was he just stuck?''Coach Sommer: This was hanging on a bar. We couldn\u2019t even get in a bridge. It was impossible. What we would do with someone like that and Mark \u2013 so just to give the audience some feedback, I went into Tim\u2019s assessment expecting medium.''And Tim was much more mobile, much more athletic, much more well prepared than I had anticipated. So I had spent a lot of time putting a custom program together for Tim that because he did so well on his assessment, I had to throw the whole damn thing away and start over from scratch because, basically, he was too advanced for what we had assumed he was coming to the table with. Someone who is crazy compromised; we\u2019re going to have to sneak up on it. We\u2019re going to have to get in there, and we\u2019re going to have to first do pec minor. We\u2019ve got to loosen up pec minor.''We\u2019ve got to get in there, and we\u2019ve got to work on the bicep tendon. We\u2019ve got to get the bicep tendon going. We\u2019ve got to work on forearms, get forearms loose. We\u2019ve got to break the scap so there\u2019s some motion there. We have to do all of that. And it\u2019s not high intensity work, but it\u2019s got to be done. And as you heard Tim say, the body thrives on it. It\u2019s like a tonic for the body. The body feels so much better because it\u2019s what the body is supposed to do.''And it\u2019s not \u2013 what the word I want? A lot of people don\u2019t care for it because it\u2019s not the high intensity, sexy work. But it\u2019s that fundamental work that makes the high intensity, sexy work possible later.",
+                    "qas": []
+                },
+                {
+                    "context": " Not only possible but safer, which \u2013''Coach Sommer: That\u2019s a good point because I think one of the questions people asked \u2013 Tim asked for questions on Twitter. And what would you like me to ask Coach Sommer? And some of the people came with I know someone who is a gymnast, and they\u2019re just beat to shit. And my answer to that is simple. They weren\u2019t my athlete. They weren\u2019t my athlete. We don\u2019t train through pain. As a national team coach for a long time, physical preparation was always our No. 1 priority. We built the physical structure first because, if you think about it, it\u2019s kind of silly.''And we see this a lot with people who are getting into weight lifting, they\u2019re cross fitters. They\u2019re Olympic lifting, and they\u2019re enthusiastic. They\u2019re excited, and they want to get that weight on the bar. And they\u2019re trying to build technique with a flawed range of motion, which, of course, gives them F\u2019d up technique, and it doesn\u2019t work. And then, they get hurt. Or you hear someone, oh, I changed my shoe, and I blew my knee. Seriously? Your knee is that tight that because your heel of your new shoe is a fraction of an inch higher or a slightly different angle that your knee blew? In our training program, we call everything you need an optimal surplus range of mobility, range of motion.''You need an optimal surplus of strength. You need an optimal surplus of stability. You need what you need to perform and a little extra for when things go south. Not if things go south, when things go south. And if you\u2019re just riding the edge of what you\u2019re capable of, and they hope nothing will go wrong. Well, it is going to go wrong.''It\u2019s absolutely going to go wrong. And so you prepare the body for that ahead of time so that, when it does go wrong, it\u2019s like that didn\u2019t hurt. Nothing is injured. Moving on, next turn.",
+                    "qas": []
+                },
+                {
+                    "context": " That\u2019s the story of my life.''Coach Sommer: The story of all of our lives.''I used to tell my athletes there are stupid gymnasts, and there are old gymnasts, but there are no old, stupid gymnasts because they\u2019re all dead. But most people, most beginners, they want to base all of their training off muscular fatigue, which is a problem. It\u2019s problematic because muscle tissue regenerates about every 90 days from end to end, all of the cells, everything is done in 90 days. That\u2019s fine. But connective tissue takes 200 to 210 days. So we have a huge gap. So if I get in, and I\u2019m not a big fan of beginners training to failure simply because their structure isn\u2019t mature enough yet to handle it safely. And by mature, I simply mean enough productive, well structured hours under their belt.",
+                    "qas": [
+                        {
+                            "question": "Why it is a problem to base all of gymnastics training off muscular fatigue?",
+                            "answers": [
+                                {
+                                    "answer_start": 355,
+                                    "text": "because muscle tissue regenerates about every 90 days from end to end, all of the cells, everything is done in 90 days. That\u2019s fine. But connective tissue takes 200 to 210 days. "
+                                }
+                            ],
+                            "id": "e23f41af-a1bd-443d-8f62-6d3aec71660c"
+                        }
+                    ]
+                },
+                {
+                    "context": " Particularly if it\u2019s in new ranges of motion, right?''Coach Sommer: Particularly if there are joints. If it\u2019s a muscle belly, like you said, if we\u2019re doing core, we\u2019ll beat your core down all day long, and I\u2019m not worried about it a bit because it\u2019s just muscular fatigue. But as soon as we get joints involved, everything changes. And it\u2019s actually really easy for people to verify because they can think back over all of the injuries they\u2019ve had over their training career and their athletic career, playing around with the kids in the backyard. The vast majority of those injuries are all joint related, almost always.''It\u2019s extremely rare for someone to have a muscle belly injury. It just doesn\u2019t happen. Yet, their training, especially in the beginning, is all skewed just towards muscular develop and not connective tissue development. And that\u2019s where they get into trouble. So when they come to us, the first thing we like is for them to spend \u2013 and is it going to be boring? It is. You know, 200 to 210 days, we\u2019re talking 6 or 7 months of dial it back, guys. Dial it back.",
+                    "qas": []
+                },
+                {
+                    "context": " And I think that it\u2019s important to emphasize, too, that dialing it back doesn\u2019t mean \u2013 it means that you\u2019re not rushing. But it doesn\u2019t mean that you won\u2019t experience a lot of progress, if that\u2019s fair to say.''Coach Sommer: I think that\u2019s crazy fair to say. And you found that yourself. But what happens is some of them, we run into this, maybe you have also, is we get some people who are addicted to the rush. They\u2019re addicted to the adrenaline rush. They\u2019re addicted to laying there in a pile of sweat. They want to do the sweat angels. They want to crawl out of the gym. And the problem with that is, if you\u2019re a world class athlete, you can\u2019t do that because I have to be back in the gym the next day and train again. I can\u2019t afford to destroy myself or the special operations guys we work with. We\u2019ve got to be able to do both.''They\u2019ve got to be operational and increase their performance through their training. But it has to go hand in hand.''And so it\u2019s only in beginners that we see that they think, somehow, they can cheat time. And it can\u2019t be done. Connective tissue is going to take 200 to 210 days. There\u2019s no supplement. You can\u2019t paint yourself blue. You can\u2019t dance under the moon. There\u2019s nothing you can do to speed that up. It\u2019s going to take what it takes. And so we work as hard as we can within those parameters. If there\u2019s joint pain, we shut it down. It\u2019s like your elbow is a good example, years ago, pushing too hard. Now, if we tweak that elbow a little too much, it flares up on you. We\u2019ll repair it, and it\u2019s going to take time.''But it takes much longer to repair it than it does to avoid it in the first place.",
+                    "qas": []
+                },
+                {
+                    "context": " Yeah, for sure. And just a couple of notes, and then, I\u2019m going to swing back to the diagnostics, how people can assess. But another conversation topic that came up, I think I\u2019m sure I brought it up, at dinner once was the use of anabolics or any type of growth agents.''And the point that you had made, which makes perfect sense, is that would just increase the likelihood of having connective tissue problems in gymnasts because the muscular strength and growth would outpace the development and the adaptation of the tissues.''Coach Sommer: Yeah. It completely would backfire, huge backfire because a lot of our power comes \u2013 where students make their greatest gains in strength is to be able to do dynamic plyometric work and straight arm ring strength. Those are your two biggest bangs for the buck. And what we have learned the hard way, the main difference between working with young, developmental athletes and full grown adults is the order in which we need to present the material. As a young athlete, I can do all physical components at once.''I can do plyometrics. I can do straight arm. I can do their mobility, bent arm, it doesn\u2019t matter a bit. I can do it all at one time. But an adult who is now fragile from years of making a living sitting a desk day in and day out. As they get a little older, the kids get bigger, levels of activities drop, drop, drop, and they\u2019re compromised. So we have to build these things in a different order. We have to first go rebuild mobility. Then, we have to rebuild core. The core I\u2019m talking not just abs but obliques and lower back. Most adults, a lot of their lower back pain isn\u2019t lower back related. It\u2019s oblique related. And we have to go in, and we have to correct that.''Then, we can worry about regular strength. Once those things are done, then, we can get to the money maker, which is their dynamic strength. But with an adult, especially a strong adult who has been athletically inactive, so they\u2019ve been doing strength training but not out moving, doing sports, being active outside of their conditioning.''Or let\u2019s say, for example, all they\u2019re doing is squats, and they\u2019re very linear in the path of their knee. And there\u2019s no meniscus work. There\u2019s no MCL work. There\u2019s no ACL work. Then, they go outside, they play a little softball. We hear it all of the time. When I was playing softball, I blew my knee going around first base. Really? How many kids blow a knee running around first base?",
+                    "qas": [
+                        {
+                            "question": "What is the problem with anabolics or any type of growth agents?",
+                            "answers": [
+                                {
+                                    "answer_start": 335,
+                                    "text": "that would just increase the likelihood of having connective tissue problems in gymnasts because the muscular strength and growth would outpace the development and the adaptation of the tissues."
+                                }
+                            ],
+                            "id": "acdbbefc-c65a-4dfa-a35d-96d4aec4cc9b"
+                        }
+                    ]
+                },
+                {
+                    "context": " Well, I was asking a mutual friend. I won\u2019t name him. And I said what should I talk to Coach Sommer about. And he said kipping pull ups. He\u2019ll lose his shit. So I said, okay, I\u2019ve got to ask.''Coach Sommer: So I was the original gymnastics guy for cross fit way back in the early 2000\u2019s and ended up leaving.''I was there before there was the first cross fit affiliate when all there was was Glassman working out of that little gym in Santa Cruz. I left just because to do GST, like anything, a dichotomy that I always find curious people, especially the cross fitters, is they will be so on point with dissecting everything they do in terms of their Olympic lifting. My pull is here. My pull is there. My knee was a quarter inch this way. They\u2019re just methodical. And they don\u2019t bring, and I shouldn\u2019t say just cross fitters, and other people, they don\u2019t bring that same degree of attention to detail to their body weight work.''So one is supposed to be meticulous, and one is somehow just supposed to be thrown together. Yet, they expect the same quality results. So if we look back in the day, their lifting was nothing by national standards.''Now, they get people who are qualifying to go to nationals. Fast forward all of those years in terms of their gymnastics strength training, and they\u2019re not even remotely close. They don\u2019t match the national team. They don\u2019t match a state level athlete, let alone a national level, let alone an international level. They\u2019re not even in the same ballpark. And part of the issue is because the kipping pull ups were a huge, big deal. It was a money maker. I\u2019ll be straight out. I\u2019ll piss some people off.''But it was a money maker as advertising for a program, they could bring someone in who has never been able to do a pull up, have them hold their chin by the bar, and let them fall, hit the bottom of that movement, bounce back to the top. And the person\u2019s eyes light up. They\u2019re like this is the best F\u2019ing thing ever. I\u2019ve never done a pull up in my entire life. Oh, my God. Oh, my God. And they\u2019re pumped.''What they didn\u2019t realize is that this person has compromised basic strength and compromised shoulder flexion. They don\u2019t have mobility in their shoulder. So they\u2019re hitting the bottom of that movement with multiples of body weight. So they weren\u2019t strong enough to do a regular pull up. So now, we\u2019re going to drop them on connective tissue with multiples of body weight. That\u2019s got to go somewhere. So it\u2019s going to force that shoulder to open further than it can handle, and I\u2019m going to bounce off that connective tissue like a trampoline back to the top of the bar. And then, to pour salt on the wound, now, I\u2019m going to do a shit load of reps at the same time.''And I\u2019m just going to crank on it. And they were getting people who were coming in, and cross fit, there\u2019s no proof. Bullshit. You guys can live in a dream world all you want. It was blowing people up. And now, the good thing, and to their credit, it took time, there was a denial, no, it has nothing to do with it, but now, we\u2019re seeing a recommendation of we\u2019ve got to start getting some basic strength built first, some basic mobility.''And then, at that time, kipping pull ups, absolutely. There\u2019s nothing wrong with it. They\u2019re good to do on a healthy shoulder joint with a good foundation of basic strength. But a beginner doing kipping pull ups, really, that\u2019s insanity. That\u2019s just pouring gasoline on a fire.",
+                    "qas": [
+                        {
+                            "question": "Should I do kipping pull ups?",
+                            "answers": [
+                                {
+                                    "answer_start": 3220,
+                                    "text": "There\u2019s nothing wrong with it. They\u2019re good to do on a healthy shoulder joint with a good foundation of basic strength. But a beginner doing kipping pull ups, really, that\u2019s insanity."
+                                }
+                            ],
+                            "id": "74e4ff9f-7563-4448-b912-19a24dd4d833"
+                        }
+                    ]
+                },
+                {
+                    "context": " With different foot placements. It\u2019s like 180 calf raises later of different variations.''I was like okay, and I\u2019m only three minutes into this hour long stretch sequence. And I know we\u2019re bouncing all over the place because I want to give people kind of a buffet sampling of how this training differs. But one of the reasons I respect the programming that you put together and the nuance that you bring to this is that the observation then is, and correct me or you can elaborate on this if I\u2019m missing something, but that a lot of the hamstring flexibility issues or limitations that people perceive are at least, in part, due to lower leg issues, including the Achilles.''Coach Sommer: A huge amount of them.",
+                    "qas": []
+                },
+                {
+                    "context": " This will be a good exam review for me anyway. So Jefferson curl is a gradually rounded, stiff legged dead lift. That\u2019s the simplest way to visualize it. So if you\u2019re looking at an athlete from the side doing a Jefferson curl, they will, most likely, be standing on a box holding onto an Olympic barbell right in front of their hips/legs. So it\u2019s just the very top of a dead lift position. But when they start the descent, and it\u2019s elevated so that when you have plates on and whatnot, there\u2019s room for it. But when they come down, they\u2019re going to tuck their chin.''And then, vertebra by vertebra round their back down all the way into the bottom position where the objective would be, or one of the objectives would be to get, basically, your wrists to the front of your toes, or at least \u2013''Coach Sommer: In a perfect world, if you\u2019re advanced enough.",
+                    "qas": [
+                        {
+                            "question": "",
+                            "answers": [
+                                {
+                                    "answer_start": 51,
+                                    "text": "Jefferson curl is a gradually rounded, stiff legged dead lift."
+                                }
+                            ],
+                            "id": "8af718d9-e9a4-499e-bdbb-e1e026d35bb4"
+                        }
+                    ]
+                },
+                {
+                    "context": " So I interrupted. But yeah, you get to the fitness world, and another one of the differences that you pointed out for me, which I really liked, was that, in the fitness world, it\u2019s exercise and diet. Whereas in your world, it\u2019s always been eat and train, right?''Coach Sommer: Eat and train. Because what the people are trying to do, and I\u2019ll throw a little blurb in here, we have an outstanding nutrition program. The guy who wrote it, former Seal Team 6, when he started was back in the day, he was 140, 145. And then, Jeff got all the way up to 220, just shy of 225 solid muscle. And his waist was the same size as when he was thin. And he looked two Vikings, two shoulders on top of his body. He came walking out, and I was like what the fuck. And it had been a couple of years. What the hell did you do? And it\u2019s these basic nutritional concepts that we teach.''But what we try to do with the adults is they\u2019re trying to stay ahead of a bad diet through exercise. They\u2019re trying to outrun a bad diet. And it can\u2019t be done. And then, what happens is, if they somehow find this crazy combination of massive amounts of cardio, and they can kind of keep their weight in check a little bit, and then, they stop that cardio, the immediately start gaining. Weight gain, weight loss, all of that should be separate from your conditioning. You\u2019ve got to get your nutrition dialed in. If your nutrition is dialed in, your body is going to find its natural, healthy weight that it\u2019s going to operate at. Now, if you want to be the giant muscle guy, and that\u2019s not your phenotype, which is your body type, tough shit. Deal with it. It\u2019s not going to change. You\u2019re not going to change your phenotype. You\u2019re not going to change your body\u2019s genetic expression. That being said, you can maximize what your potential is. What we hammer through to our students is you\u2019re not responsible for the hand of cards you were dealt. You\u2019re responsible for maxing out what you were given.''So who knows what your strengths will be. Maybe it will be more endurance. Maybe you\u2019re going to carry easy muscle mass. Maybe you\u2019re a max strength guy. Maybe you\u2019re very skill oriented. It doesn\u2019t matter. Maybe you\u2019re very explosive. But whatever it is, make the most of it.",
+                    "qas": [
+                        {
+                            "question": "Can I change my phenotype?",
+                            "answers": [
+                                {
+                                    "answer_start": 1652,
+                                    "text": "You\u2019re not going to change your phenotype. You\u2019re not going to change your body\u2019s genetic expression. That being said, you can maximize what your potential is."
+                                }
+                            ],
+                            "id": "31868742-f6a7-4a9f-ad59-035a6ee66141"
+                        }
+                    ]
+                },
+                {
+                    "context": " We\u2019re going to come back to you in one second. The question I want to ask first is one that came up a lot from listeners of this podcast, which was, and I\u2019m going to create sort of a composite of these questions, but if someone is 35 years old, let\u2019s just say, former athlete, does basic gym work, diet is okay, not terrible.''They feel reasonably athletic, but they\u2019re not competing in anything certainly, have never done any gymnastics, what would good goals be for such a person? And what would bad goals be maybe at the same time?''Coach Sommer: Well, without question, bad goal would be for them to jump right in to kind of full body weight, straight arm strength. For example, a back lever, which doesn\u2019t require a ton of strength, but they love to do it because it looks so cool. It\u2019s kind of like their first thing they can do like wow, look at me. The problem is that it puts them in extreme load while in shoulder extension.",
+                    "qas": []
+                },
+                {
+                    "context": " Can I paint a picture for people? So back lever, just to create the image, and, Coach, correct me if I\u2019m wrong, imagine you\u2019re laying on your stomach on the floor, arms by your sides. And then, you turn your hands palm down so that your thumbs are pointing out away from your body. And then, you lift your arms off the ground as high as possible with your arms straight. And then, place a bar in your hands. And then, lift your body off the ground.''Coach Sommer: Off the ground and kind of hold yourself there. Body would be horizontal. And what they don\u2019t realize is that when the shoulders are in shoulder extension like that is that the biceps are under maximum stretch. So it\u2019s not a problem to do it being strong enough. The bicep is too low, and they\u2019re going to tear a bicep, so for a young adult, not a problem at all. And we\u2019re lucky. We have a lot of people who use our material.''But some of our material, no, Coach, you\u2019re too conservative. Coach, it\u2019s a new world. Coach, we don\u2019t have time. I had someone who was 21 or 23 once, Coach, I don\u2019t have time to take my time. I\u2019m already 23. I was like, okay. All right. I think you\u2019re misreading this. But they want to jump right into their strength training. And they do well, but they don\u2019t do the mobility work. So it wasn\u2019t last year, I think it was the year before. I think maybe the street work out community, five of their top guys around the world snapped biceps. And these are crazy strong guys. We\u2019ve seen them. These guys are beasts. They\u2019re doing one armed chins.''They\u2019re doing this and that. And they all snapped them on back lever stuff because the mobility wasn\u2019t in line. Now, we all know, when you\u2019re young, you can get away with a lot of stupid shit because the body heals so fast luckily. I certainly wouldn\u2019t have survived being 21 if it wasn\u2019t the case.''But as an adult, the structure is mature now. And I think maybe a better way to look at it is people think I\u2019m getting older. Ligaments are breaking down. Tendons are breaking down. Joints are getting brittle. And, actually, that\u2019s not the case because, if we go back in time when you were a little guy, when I was a little guy, when all listeners were little guys, we ran around like mad men. It wasn\u2019t today, I\u2019m going to ride my bike 3 miles. It was the sun was up, go jump on my bike, and I\u2019m gone all day. And I\u2019m running, and I\u2019m jumping, I\u2019m climbing. And we\u2019re just being crazy little guys.''Then, we have this huge matrix of activity that the body is used to. Then, we hit high school. And for most people, that\u2019s our first exposure to structured athletic training. And the body does well with it. Now, the mistake is thinking that the body did well solely because of that structured athletic training. What they\u2019re overlooking is all that activity, the matrix of activity that occurred for those years prior to that.''Then, if they\u2019re a high enough level athlete, structured training might continue into college, graduate, time to get a job. I\u2019m young. Hormones are pumping. I\u2019m going to go to work, and then, I\u2019m going to go play basketball with the guys. I\u2019m going to hit the gym, this and that. That goes good for a couple of years. I\u2019m getting by, having fun on weekends. Weekends are full. Then, you meet the cutie. You meet the love of your life. You get married. Suddenly, I can\u2019t go play basketball every night now. So we do this and that. And a little at a time, our levels of physical activity outside of conditioning are dropping down. And they\u2019re dropping down a lot.''Then, kids come. Well, there\u2019s another huge chunk of time gone. Then, before you know it, you\u2019re 30, 35, you haven\u2019t been hitting the gym very often. There is certainly no time for just playful activity or doing sports or this or that on a regular basis for most people.''And they spend most of the time hunched over that desk. And now, the body wants to be healthy. It wants to be healthy. You\u2019re a prime example. We feed it the right movements in the right dosages, and it blooms. It blossoms. It\u2019s like weeding and watering a garden. The body wants to be healthy, but we have to do it in the right dosage. And so, for example, those street worker guys, they hurt themselves because it was the wrong dosage. They wanted to go too hard too soon without the mobility. So for an adult, to come back around to answering that question a long way, a 35-year-old, the very first thing we\u2019ve got to do, we\u2019ve got to fix joints.''We\u2019ve got to repair joints. We\u2019ve got to get that range of motion back.",
+                    "qas": []
+                },
+                {
+                    "context": " If you were to look at all of the adults that you\u2019ve dealt with, let\u2019s just say 35 year olds, if you had to pick, and, of course, this does not cover all of the bases, but if you had to pick say three to five movements or exercises or stretches for addressing the most common deficiencies, getting those joints back into play, what would some of your selections be?''Coach Sommer: So just for joints, I think we\u2019d put Jefferson curl at top of the list. The Jefferson curl is going to let us \u2013 because remember, we have multiple sections of the spine. We\u2019ve got the cervical, thoracic, and lumbar. That\u2019s going to come through also into glutes. That\u2019s going to go down into our hamstrings. That\u2019s going to hit our calves. That\u2019s going to hit our Achilles as well. So for one, that\u2019s a lot of bang for your buck for one exercise. Even if that was all you did, you just did Jefferson curl, a lot of aches and pains are going to go away because of that. Next one, that\u2019s tough. It\u2019s always hard to boil it down.''We took care of pike. We\u2019ve got to get extension. We\u2019ve got to get some thoracic extension. I\u2019d throw elevated bridge in there if arm strength was sufficient to handle it.''If not, we can scale it down to some weighted work with some bars or some barbells, either some dowel with a plate. We\u2019ve got to get shoulder extension in there because a lot of the conditioning work exposed to his all front delt heavy. It\u2019s all anterior delt. And the pecs get tight. The anterior delts are getting tight. And we start pulling our own shoulders forward. We create our own impingement. And it doesn\u2019t matter. I\u2019ll do more exercises. I\u2019ll do more exercises. Well, no, you\u2019re just making it worse. What the problem is is there\u2019s not balance in the shoulder joint. There\u2019s no retraction.''And it\u2019s easy to tell. What does their posture look like? What do we see with everyone now? They even have a term now, texting neck.",
+                    "qas": [
+                        {
+                            "question": "What ist the best thing I can do to address the most common deficiencies, getting joints back into play?",
+                            "answers": [
+                                {
+                                    "answer_start": 419,
+                                    "text": "Jefferson curl"
+                                }
+                            ],
+                            "id": "9696e331-0849-4304-831d-1298a52f8715"
+                        }
+                    ]
+                },
+                {
+                    "context": " Right.''Coach Sommer: And that doesn\u2019t come back. Once that happens, it\u2019s done. It\u2019s over. It\u2019s done. The same thing happens with the muscle bellies. So people who get frozen shoulder or impingements in this, that is if you\u2019re not using the muscle belly, the body doesn\u2019t want to support it because muscle tissue is expensive. By expensive, the body looks at it as it\u2019s expensive to feed. It\u2019s expensive to maintain. So for example, your body isn\u2019t a painting. You can\u2019t get to a certain degree of muscle mass, mobility, athletic ability, endurance, whatever you want to say and then just stop and have it continue to exist like a painting you did.''It has to be maintained because, if you\u2019re not using it, it costs too much resources for the body to continue to keep it. So it\u2019s going to start breaking it down. And you get a few days, and then, you start losing strength.''You start losing mobility. You start losing wind. Easiest physical attribute to build, endurance. Simple. Super simple. Endurance is what? Endurance is simply strength repeated over and over at a lower load. No big deal. That\u2019s a six to an eight week process. Simple. No problems at all. Mobility is going to take some time. What\u2019s the easiest one to fix? Muscular strength. No problem at all. It\u2019s super important then that we use that muscle mass because if it\u2019s not being used, you\u2019re not only going to lose the size of the muscle mass, the body is going to start doing deposits of collagen on it.''And it\u2019s going to start shrinking that muscle belly. On the traps, for example, going back to those older adults we discussed, it\u2019s going to shrink until a lot of it is connective tissue on the edges. Now, what people need to realize, and they don\u2019t, is that when they see an adult who is hurting, they\u2019re older, they\u2019re shuffling, they can\u2019t pick their knees up, their hips are frozen, they\u2019re hunched over, their neck is displaced, they weren\u2019t that way when they were younger.''And this is all the result of inactivity and poor progressions in their exercises. And it didn\u2019t have to be. And then, they need to take the next step of connecting is that if it happened to that guy or that woman, it can sure as hell happen to me also if I go down the same road that they went down.",
+                    "qas": [
+                        {
+                            "question": "What is endurance in gymnastic strength training?",
+                            "answers": [
+                                {
+                                    "answer_start": 1015,
+                                    "text": "Endurance is simply strength repeated over and over at a lower load. "
+                                }
+                            ],
+                            "id": "8eee7390-b78e-4846-ae88-8aa5778422d5"
+                        }
+                    ]
+                },
+                {
+                    "context": " What would be a good gymnastic strength training goal to have or goals? And just as context for people who are wondering, after trying to do my best to survey the landscape and figure out what might not be the stupidest goals, I\u2019m not saying they\u2019re the best goals, but I decided strict press handstand, which we can define in a second, seems like a good one. And it just seems like a sweet thing to be able to do.''And then, front lever. And then, straddle planch. We can talk about what each of those are. But would the press handstand, for instance, be something that incorporates the strength, the mobility in all of these pieces? If you had to pick one \u2013''Coach Sommer: If you had to pick one that would be the one.",
+                    "qas": [
+                        {
+                            "question": "What would be a good gymnastic strength training goal to have or goals?",
+                            "answers": [
+                                {
+                                    "answer_start": 288,
+                                    "text": "press handstand"
+                                }
+                            ],
+                            "id": "ce786382-4108-443d-a889-b157a773dadd"
+                        }
+                    ]
+                },
+                {
+                    "context": " You see that with kettle bells a lot, too. I remember when I was really deep in kettle bell training; you take yourself out for God knows how long and rip all of your calluses off.''Coach Sommer: But they mean well. We tend to use two terms with our athletes. We have immature athletes and mature athletes. And the definition, and it\u2019s not an age deal, it\u2019s an attitude deal. So an immature athlete is someone who wants what they want right now. A mature athlete is someone who is willing to do what needs to be done now to get rewarded for it later, delayed gratification. And it\u2019s the mature athlete that, in the long run, always comes out on top. They\u2019re always the ones with the greater longevity and the greater success. The other ones, the immature ones, if they\u2019re really talented, they may stay ahead for a while.''But, eventually, you\u2019re going to get so dinged and broken and beat up that they have to step aside. And the mature athlete or woman, they\u2019re just doing their thing day in and day out. It\u2019s like writing a book that has 365 pages in it.''If I ask you tomorrow, \u201cTim, go home tonight and write me a book with 365 pages,\u201d you\u2019ll be like, \u201cChris, you\u2019ve lost your fucking mind.\u201d But if I say, \u201cTim, I want you to write me a single page every day.\u201d In a year, we\u2019ve got a book with 365 pages. And if you picture that thickness of a novel, that\u2019s a lot of pages there. But if I look at that thickness of a single page, it\u2019s so thin that it seems negligible. It doesn\u2019t even matter. It\u2019s like why did I bother? It\u2019s the consistency that adds up over time. And that\u2019s where you see these great athletes. You\u2019ve got to understand, you see a world class athlete, they did not start training yesterday. This is a multiyear process.",
+                    "qas": []
+                },
+                {
+                    "context": " So let\u2019s take the press handstand, which we\u2019ve been talking about as a great kind of bang for the buck objective because it incorporates so many different elements and attributes that you need to develop. What would a series of progressions like four or five progressions for that look like? And does it literally mean that if he couldn\u2019t get through Movement 5 that he would drop all the way back to No. 1?''Or would he go back to No. 2 and No. 3?''Coach Sommer:  No, he\u2019d go right back to No. 1. Now, he might not start with the very Week 1 programming of 3 x 1 rep. He might drop back to Week 11 where we provide the programming where it\u2019s 5 x 5, and you demonstrate mastery. And the next work out, bump. But, basically, what he\u2019s doing is if he failed on that exercise that means there was a chink in the armor somewhere. There was a hole in the preparation. There was some deficit that had been overlooked or some part of the body that had not yet super compensated.''So basically, we want people to go through, when they\u2019re in training, to just be super simplistic. We want their training to go through a period of overload where whatever they\u2019re doing is kicking their ass.''It\u2019s hard. It\u2019s intense. And then, without changing reps or sets, we want the body then to go into a period of load where that same amount of work, that same load, same exercise, same reps, same sets feels moderately difficult. So it\u2019s feeling easier because the body has gotten stronger. And then, where people always cut it short, where they undermine themselves here is they don\u2019t go into under load. So to be super simplistic, under load is where damn, I\u2019m just not feeling like I\u2019m working very hard. You\u2019re moving the same weight. You\u2019re doing the same reps. You\u2019re doing the same sets.''But you\u2019re just cutting it short. What people tend to do is they want to ride that razor\u2019s edge. I did this much today. I\u2019m going to do more next week that typical 5 pounds on the bar. Okay, that\u2019s great. If that was the case, I remember my first weighted pull up work out, I was excited. Way back when, I was a teenager. I came home.''I did my 5 pounds. I pulled out my calendar. I did 5 pounds. I\u2019m going to do a pound every week. Holy shit, I\u2019m going to be pulling 1,500 pounds in a year, man. I\u2019m world champion in the making. Linear doesn\u2019t work that way. So what happens is that you hit that point of where you\u2019re maxed out currently. And then, you got to step off. And we\u2019ve got to give the body a chance to accommodate. So for example, you mentioned Robb Wolf. Robb is a good buddy. Robb is super sharp, for those of you who don\u2019t know. He\u2019s a nutrition guru. Check out his stuff.",
+                    "qas": []
+                },
+                {
+                    "context": " So you mean that for the progressive resistance purists out there, there might be another way?''Coach Sommer: Well, but, remember, he wasn\u2019t a beginner at this point. Because a beginner, it wouldn\u2019t do any good if I can do a wall push up inclined on the wall. Alan was strong. He was already doing hollow back presses. Rope climbs were for maintenance and healthy elbows, yada, yada, yada. But for that year, I didn\u2019t change anything. All that changes was work out that took an hour got to the point where it was taking 40 to 45 minutes at which point do your stretch and get out because the less time you\u2019re in the gym the better because it\u2019s less wear and tear on the body.''When I hear what you mention people who love to be high intensity, it\u2019s cool. But the analogy that comes to mind is someone who wants to be high intensity all of the time is like having a new set of tires. And every time you come up to a stop sign, you don\u2019t gradually brake, you slam those brakes hard. You skid to a stop every single stop sign. How long is that pair of tires going to last? It\u2019s going to wear out pretty quick. Now, the body is not like tires. It can rebuild itself as long as you don\u2019t put it too deep into a hole or physically break the structure, damage the structure beyond repair.''So as long as you show some degree of care, you rebuild yourself. But if you keep skidding to that stop every single day, it\u2019s a matter of time. It\u2019s not if, it\u2019s guaranteed.",
+                    "qas": []
+                },
+                {
+                    "context": "  So let\u2019s throw out a couple of, I\u2019ll use another automotive metaphor, let\u2019s switch gears.''And I will ask just a couple of questions that I think people would love to hear answers to. The first is someone listens to this, they\u2019re extremely excited to do gymnastics strength training. And maybe they go out, and they\u2019re sampling different things from all sorts of different places. And, of course, I should say with full disclosure I have no business association. I\u2019m not getting any kind of affiliate anything from you. I just am a real fan of how you train. So I think people should check out your training programs. But what exercises should people not attempt or just remove from consideration for the first say six months of gymnastics strength training.''Coach Sommer:  Such a good question. I would say muscle ups.''The issue becomes, there\u2019s nothing wrong with the pull, there\u2019s nothing wrong with the dip. The shoulders will adapt relatively quickly. They\u2019ll get up on rings at first, and they\u2019re shaking. And that\u2019s simply because the stabilizers aren\u2019t used to the load. That will adapt within two weeks, four weeks. They\u2019ll be fine. The issue they run into is because their shoulder extension is weak. They can\u2019t get the elbow behind the torso. So instead of doing a dip with body weight, now, they\u2019re trying to do a triceps extension with body weight, completely different animal. Their elbows are trapped at their side.''And now, their hands are in front of them, and they\u2019re just trying to press themselves up. Of course, they\u2019re just trashing their elbows. Some people, we do see it, some people have incredible joints that you can just pound and pound and pound and pound, nothing happens to them. Run them over with a car, all you\u2019re going to do is hurt your car. Everyone assumes they\u2019re that guy. They\u2019re that woman.''The reality is you\u2019re not, guys. You are not that person. If you were that person, I would see you at training camps right now, or you would be a celebrated professional level athlete. So accept the fact that you\u2019re human, and those are not your joints. And so you can\u2019t take that approach and have longevity. It\u2019s not going to happen.",
+                    "qas": [
+                        {
+                            "question": "what exercises should people not attempt or just remove from consideration for the first say six months of gymnastics strength training?",
+                            "answers": [
+                                {
+                                    "answer_start": 811,
+                                    "text": "muscle ups"
+                                }
+                            ],
+                            "id": "68c5e434-15ee-4767-a5b0-dc7e5f59051f"
+                        }
+                    ]
+                },
+                {
+                    "context": " Let me ask a related question because, of course, every four years, I watch gymnastics. I love watching gymnastics, as do a lot of people. And they go holy shit, if I can get arms that look like that by hanging from a bar for an hour a day, I need to start hanging from a bar. How much of, and we talked about the rings, how much of the musculature in the upper arms, biceps specifically, comes from straight arm work versus some form of bent arm work?''Coach Sommer: Excellent question.''So the majority of the massive biceps they see is going to come from the straight arm work. So for example, when the guys would, at that level of training, at that level of strength, rope climbs, for example, so my guys had to do a triple on a 7 meter rope. So all rope climbs are done with no legs. In GST, we do ropes without legs. We get some people saying the rope is used for transportation. As soon as they take out the escalators in a mall, and they put ropes in place of it, or they take the elevators out and they put ropes, I\u2019ll buy that argument that we use a rope for transportation.''Until that happens, a rope is used for getting friggin\u2019 strong. And that\u2019s the point of having a rope. So in five minutes, they would do a triple on a 7 meter rope, get in the back of the line, do a double on a 7 meter, get back in the line, and do another. And that would be about five minutes worth of work.''Now, for them, what we did notice, and a lot of people missed this, we\u2019re going to do two things here at once. So for the maximal strength component of it, it\u2019s the straight arm work, maltese work in particular. Just blows the body up.",
+                    "qas": [
+                        {
+                            "question": "how much of the musculature in the upper arms, biceps specifically, comes from straight arm work versus some form of bent arm work?",
+                            "answers": [
+                                {
+                                    "answer_start": 493,
+                                    "text": "the majority of the massive biceps they see is going to come from the straight arm work"
+                                }
+                            ],
+                            "id": "77829623-f5ab-4b55-9889-db65f2242a3f"
+                        }
+                    ]
+                },
+                {
+                    "context": " And people listening, don\u2019t just go into your garage and try a maltese on your rings.''Coach Sommer: You can. You can totally because I don\u2019t think maltese will hurt you. But your landing on the concrete on your face underneath the rings is probably going to hurt. The maltese won\u2019t. It\u2019s the sudden stop at the end. That will be uncomfortable. But now, what we found out with the guys though is we did, over the years, the weight vest, the weights, the heavy weighted rope climbs, pull ups. Nothing put better mass on a bicep secondary from the ring strength than high volume rope climbs, nothing. Nothing blew them up.''Now, the key though is, for everybody listening, if you go and you jump right into ropes right now, and you haven\u2019t built a foundation of rows, pull ups, multi plain pulling, and then get to rope climbing, you\u2019re going to give yourself a raging case of elbow tendonitis.",
+                    "qas": []
+                },
+                {
+                    "context": " Or turned in, they would be at say 10:00 p.m. and 2:00 p.m. or something like that.''Coach Sommer: Exactly. And it will vary. As long as they\u2019re out. The reason is what\u2019s the weak link in straight arm strength is the elbow. The weak link is the elbow. And what a lot of people will do is we\u2019ve had people who were taught elbow pain is just part of doing ring strength. No, it\u2019s not. Elbow pain is an indicator that your ring strength is F\u2019d up, and you need to do better programming. It hurts for a reason.",
+                    "qas": [
+                        {
+                            "question": "My elbow hurts when I do ring dips. Is that a normal thing?",
+                            "answers": [
+                                {
+                                    "answer_start": 370,
+                                    "text": "No, it\u2019s not. Elbow pain is an indicator that your ring strength is F\u2019d up, and you need to do better programming. It hurts for a reason."
+                                }
+                            ],
+                            "id": "58a1cac8-367a-4a25-9bb6-85a93075df78"
+                        }
+                    ]
+                },
+                {
+                    "context": " Here we go then. The next question is, from one of my listeners, and it\u2019s, quite simply, how do you mentally prep your athletes for big competition when you\u2019re down to that \u2013 you go the nationals or any competition, but specifically big competitions?''And by prep, I mean mentally prep the day of. Is there anything in particular that you do?''Coach Sommer: It\u2019s very different. It starts with repetition. So we talked a little bit about training. In a nutshell, and we\u2019ll come back around and fill this out, so in the preparation prior, successful repetitions. It takes a certain number of repetitions to lead to competence. And it\u2019s competence that leads to confidence. And that\u2019s what leads to a successful competition. So as Americans, we tend to be in a rush, be in a hurry. We don\u2019t want to take a lot of reps. We want to get something. We do it correct a few times, and then, we want to bump on. Completely different from the Chinese approach.''Completely different from the Russian approach where they\u2019ll literally do hundreds of repetitions before they move on to the next drill. And they\u2019re not upset about it because they understand it\u2019s a process. As Americans, it\u2019s both a good thing, and it\u2019s a curse. One, it\u2019s a good thing because it forces us to be so creative, we\u2019re so hard charging, we get so many things done. Physically, sometimes, it kind of works against us because we don\u2019t give the body and the nervous system a chance to stabilize. So if you want to be confident at a competition, you have pay your dues and prep. And that\u2019s mentally and physically.''For example, \u201972 Olympics, and I was talking about this with Dmitry Bilozerchev, my friend, world and Olympic champ. So in \u201972 Olympics, Olga Corbett was, by all accounts, going to crush everyone at the games. She was going to crush everyone.''In training, as they went back, and the Russians went back, and they reviewed all her training, she had over a 98 percent hit rate on her routines. That meant she was almost perfect. When she went to the games, she had a major meltdown. Now, the question, of course, raises how was it possible for someone who was this perfect for this long in training to go to the competition and just fall apart? As they dug into it, they found out the error was not in physical preparation. The error was in mental preparation. So as Olga was cranking at home, she was the one who decided when to go. Coaches waited on her. Judges waited on her. Everything was structured on her.''She was very comfortable. She didn\u2019t start until she was ready. Equipment, she\u2019s ready for it. Lighting, she\u2019s ready for. Matting is familiar. Everything is good. When you get to the world\u2019s, and you get to the Olympics, judges don\u2019t give a fuck if you\u2019re ready or not.''When they raise that flag, it\u2019s brutal. It\u2019s brutal. In fact, to give everyone a little taste, the warm up gym is not there. The warm up gym might be 10 minutes away, or it might be a 5 minute walk down this concrete hallway. So you go and you warm up, you walk down this hallway, and then, your ass waits there. And then, the flag goes up, and you got to go to 100 percent within 30 seconds. You\u2019ve got 30 seconds to be on the equipment. Massive head game. So they went back, and they found out that Olga\u2019s problem was that everything had gone her way.",
+                    "qas": [
+                        {
+                            "question": " how do you mentally prep your athletes for big competition?",
+                            "answers": [
+                                {
+                                    "answer_start": 563,
+                                    "text": "It takes a certain number of repetitions to lead to competence. And it\u2019s competence that leads to confidence. And that\u2019s what leads to a successful competition. "
+                                }
+                            ],
+                            "id": "a9a56c9b-b834-473c-aa82-0750ff09c6f1"
+                        }
+                    ]
+                },
+                {
+                    "context": " As an adult, if you are assessing a gymnastics coach for yourself, and you could observe a work out, let\u2019s just say you could only watch the warm up, what would you look for to be there or not be there? Or what would the characteristics be?''Coach Sommer: Do they take the time to warm up the joints? Or do they jump right into work? Do they actually take time to mobilize? Are they doing stall bar work? Are they doing Jefferson curl work? Are they loosening up their wrists and their knees and their ankles?''Are they loosening their back before they get going? Are they doing some type of pre-strength? Are they doing lower level strength elements to get the muscles warm and firing before jumping into the hard work? You can tell a lot from how a program warms up.",
+                    "qas": [
+                        {
+                            "question": "if you are assessing a gymnastics coach, what would you look for to be there or not be there?",
+                            "answers": [
+                                {
+                                    "answer_start": 257,
+                                    "text": "Do they take the time to warm up the joints? Or do they jump right into work? Do they actually take time to mobilize? Are they doing stall bar work? Are they doing Jefferson curl work?"
+                                }
+                            ],
+                            "id": "172a812e-0576-410a-a39b-d5cffa24bd77"
+                        }
+                    ]
+                },
+                {
+                    "context": " And how long should a proper gymnastics warm up take?''And one more, which is warming up the joints, are there any specific movements that hit the shoulders from any angle or perspective that would indicate a better warm up for gymnastics strength training than others?''Coach Sommer: It would depend on duration of the work out. So if you\u2019re in there for an hour, I\u2019ll preface it, say you\u2019re in for an hour. I would say probably 10 to 15 minutes is reasonable. Now, at the same time, if I have significant mobility deficits, then, perhaps the majority of the work out needs to be mobility work. So it could kind of shift possibly as high as a half hour if I have a multi hour training coming up. It\u2019s complicated enough. And we\u2019ve tried this over the years.''There are enough things to address that should be addressed on a semi regular basis that you can\u2019t really get everything in to a single warm up. So you\u2019re probably going to have two or three variations. If you\u2019re doing advanced work, you\u2019re probably going to have two or three variations in order to get to everything. For example, ring strength, before a good, hard ring strength, it\u2019s very nice to do thera band series for the shoulders. Different shapes and pulls and circles and all of these things with thera band are really great for warming up the interior of the shoulder. On other days, do I need to do that as much for shoulder?''No. It might be more weighted shoulder work is appropriate for other days. Is it necessary to do all of them at the same time? Most of the time, no. We have one senior student, really, really good. Matt started training with me in his late 40\u2019s. He\u2019s now 52, beast. Press handstands, planches, front levers at 52, ridiculous shape.''And he went through a period where, just for shoulders to feel better, he did every shoulder prep. We had all of our integrated mobility \u2013 our courses are set up very unusually. For our introductory courses, the adult students come in, alternate an exercise with an integrated mobility because we want them 50/50. So we found if I told people how important stretching was, they always blew me off. But if I required it, do a set before your next set, you have to do this stretch, then back and forth. And we just had great results. So Matt is this crazy, maniac, still skateboards, still water skis, does his GST.''And the shoulder would get a little finicky, so he just did extra mobility, and it just fixed his shoulder right up.",
+                    "qas": [
+                        {
+                            "question": "how long should a proper gymnastics warm up take?",
+                            "answers": [
+                                {
+                                    "answer_start": 366,
+                                    "text": "I\u2019ll preface it, say you\u2019re in for an hour. I would say probably 10 to 15 minutes"
+                                }
+                            ],
+                            "id": "e4a6bce7-fc90-44ef-9d6f-770c5a167de4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "How to Optimize Creative Output \u2014 Jarvis vs. Ferriss\u00a0(#159)",
+            "paragraphs": [
+                {
+                    "context": " This is gin. We should be very clear. But what I did do is interviewed or really just reached out to podcasters before starting to ask them a series of questions, which is what I do any time I try to learn about anything, even if I make the decision to abort. And in this case, it became clear that almost everyone who watches the podcast quit after say three episodes. You look on iTunes, 300,000 podcasts let\u2019s just say, and the vast majority of 3 episodes, and then, they go silent, they go dead. And it\u2019s because people get overwhelmed with editing. So I made the decision to do long form, long conversations, next to no editing.''And just that decision alone I think has allowed me to get to where I am in a necessary but not sufficient manner. Like those small decisions that are made, and we were chatting about this before we started recording, but in response to the question that I\u2019ve been asking myself more and more, which is what would this look like if it were easy? Yes, you can try to make it perfect over here.''But that might mean that you quit after three attempts. So what would it look like if it were easy? And part of the answer was next to no post production.''Chase Jarvis: I love it. Well, to describe a parallel track, Chase Jarvis Live, this particular show is five or six years old now. And the original 50 episodes were only in Seattle, 100 person live studio audience, live only, no pre-recorded, also the same long format. And it was hard. And even then, I had made some esthetic decisions, one of which was making it black and white. Primarily, that was intentional so that it would be reductive, and you\u2019re just focusing on the two people in the conversation. But then, it was also like that saves all kinds of other problems because we can use mixed light and natural light and artificial light.''And we don\u2019t have to solve for all of this shit. So I kind of tried to do it then. And this, what we\u2019re living right now, is an even easier version of that.''And it\u2019s weird how when you take out these things that are the blockers how we can steamroll through something.",
+                    "qas": []
+                },
+                {
+                    "context": " But people will kill themselves who know nothing about audio visual with preamps and all of this gear. And they\u2019ll become so overwhelmed, none of which I use, that they quit because they\u2019re like this is too complex for me. It\u2019s like what would this look like if it were simple, if it were easy?''Chase Jarvis: So let\u2019s extrapolate just to some really concrete stuff. What is the universal lesson? If you simplify it, it\u2019s easy. But presumably, there are folks out there who aren\u2019t writers and photographers and designers. And is there a maxim that transcends just make it easy?",
+                    "qas": []
+                },
+                {
+                    "context": " The blank page is very intimidating for a lot of people, unless they happen to be trained journalists who can churn out 1,500 words a day and have them be good. That\u2019s not me. But one of the best pieces of advice I got was from someone who told me this lesson I the context of IBM back in the day when IBM was just the behemoth. It was 800 pound gorilla across several different industries. And their sales people were known as being incredibly, incredibly effective. They smashed quotas. Now, how did they do that? One of the lessons that was taken away from IBM was that they made the quotas really low. That\u2019s pretty odd. Why would they make the quotas low?''Because they wanted the sales people to not be intimidated to pick up the phone. They wanted to just build that sales momentum and then people would overshoot their goals.''Translated to writing, I was told, at one point, your goal should be two crappy pages a day. That\u2019s it. If you hit two crappy pages, even if you never use them, you\u2019ve succeeded for the day. And alleviating that performance anxiety about putting down 10 pages of good material, which inevitably, I think, you\u2019re going to fail at least once or twice a week, allows you to overshoot that goal and continually succeed and sort of build that confidence and momentum. So that would be an example of rigging the game so that you can win it. It applies to diet. It applies to exercise. It applies to writing. It applies to podcasting.''How can I make this easy? How can I set, in a way, the goal lower, the objective smaller so that I can feel like I\u2019m winning? Because I feel like the feeling that you are winning is a precursor to winning on a very large scale.''Chase Jarvis: Yeah, to actually winning.''The way I talk around here is Creative Live, for example, has a ton of momentum right now. It\u2019s just growing. It\u2019s exceeding our expectations. We have very high expectations. But you can\u2019t underestimate the power of momentum. And two becomes four, four \u2013 just think about compounding interest. You\u2019re leaning into it, and it\u2019s accelerating. And maybe even a lot of accelerating returns, that\u2019s what I\u2019m trying to think of. So is that a, I don\u2019t know, do you apply it to every part? Because you just touched on writing.",
+                    "qas": []
+                },
+                {
+                    "context": " I do. I apply it to any type of behavioral change. And if you want to be more creative, you want to make more money, which then has many different component behaviors, if you want to sleep better, longer, deeper, whatever it might be, a set of behaviors you need to change. Whenever I\u2019m looking at behavioral modification, I think BJ Fogg at Stanford has done a lot of interesting writing in this department where, if he\u2019s trying to get someone to floss, he\u2019ll be like start with your front teeth.''It\u2019s like don\u2019t worry about the whole mouth. I want you to floss. You have enough time to floss your front teeth before you go to bed. And eventually, you\u2019ll just be like wow, I\u2019m such a loser. I can\u2019t believe I\u2019m flossing my front teeth. I\u2019ll just floss my whole mouth. And then, you do it. And before you know it, boom, you\u2019re flossing your teeth. But rigging it in such a way that you don\u2019t put it off. So oh, you want to pick up an exercise habit. Five minutes on the treadmill, that\u2019s it. And it\u2019s like if you get in there, you\u2019re like I\u2019m not feeling it, and you want to jet after six minutes, great, you\u2019re done. You succeeded. You win.''If you want to stay, you\u2019re feeling great, feeling a little froggy, as my gymnastics coach currently would say, it\u2019s like great. Then, stay on for another 30 minutes. But understand that\u2019s bonus points. You already won. And I think a very close corollary to that for creatives, particularly people who are like I need to win, I want to be No. 1, I want to fill in the blank, aggressive goals \u2013''Chase Jarvis: I have no idea.",
+                    "qas": [
+                        {
+                            "question": "I want to pick up a habit. Any ideas?",
+                            "answers": [
+                                {
+                                    "answer_start": 275,
+                                    "text": "Whenever I\u2019m looking at behavioral modification, I think BJ Fogg at Stanford has done a lot of interesting writing in this department where, if he\u2019s trying to get someone to floss, he\u2019ll be like start with your front teeth."
+                                }
+                            ],
+                            "id": "a5400f13-4ec1-4538-9101-a914c05f2fe3"
+                        }
+                    ]
+                },
+                {
+                    "context": " I know you have none of that hardwiring, is celebrating the small wins. I think I\u2019ve been very bad at that historically. And my ex-girlfriend helped me develop a habit, which I think is a great habit. I have this jar, and it\u2019s going to sound super cheesy, but she labeled it the jar of awesome. And it\u2019s a big mason jar. And it\u2019s like when something really cool happens, you\u2019re not going to remember it three months later and have that perspective to give you gratitude. It\u2019s like write it down on a little piece of paper every night. Write down the things that were awesome that happened that day, however small they might be, fold it up, put it in the jar of awesome.''And then, when you get into a funk, when you\u2019re feeling down, when you\u2019re feeling uncreative, whatever it might be, go through and read these pieces of paper, these little self made fortune cookies of goodness from this jar. It\u2019s a really easy habit that I think allows you to not only be creative but understand that most people, and I know this isn\u2019t exclusively focused on creativity, but why do people want to be creative? Because they want to do good work.''Why do they want to do good work? Because this, this, this. Why? Because they want to feel good about themselves and be happy. It\u2019s like well, you can give yourself small doses of that throughout the process. You don\u2019t have to postpone that reward that you think you\u2019re going to get at the end because, guess what, if you don\u2019t celebrate the small things, you\u2019re not actually going to be very good at celebrating the big things either.''Chase Jarvis: Yeah. I don\u2019t remember. It\u2019s come up in this series of talks. Somebody was talking about; I think it was Neil Strauss talking about interviewing Lionel Richie. Lionel Richie just had an epic year; it had to be like 1983 or something like that. But it was an epic year. He won the Grammy. He sold a million albums, blah, blah, blah. And he considered himself climbing his way to the top in the music industry. And when he got there, do you know what he told Neil was up there? Fuck all. There\u2019s nothing up there. It was just there was no one else on the mountain. So obviously, the take away is that it really is the journey.''It sounds trite, like you said, like an awesome jar or a jar of awesomeness. But if you can\u2019t actually celebrate your wins along the way, what have you got?",
+                    "qas": []
+                },
+                {
+                    "context": " How does gratitude manifest?''Chase Jarvis: Immediately following my morning meditation, and I put gratitude and visualizing gratitude. So I visualize some of the things that I want to happen in my day and in my life. And I usually do that immediately after. So when I\u2019m coming out meditation. I look, great, I got my 20 minutes. What are some things I want to manifest? And these are just pictures. I think in pictures as most people do. And I just picture some of the things in the process of happening, whether it\u2019s a great interview with Tim Ferriss. I picture us sitting here laughing and talking. It\u2019s so great. We love it. And then, I\u2019ll picture some success with Creative Live.''Or some success with my wife, Kate. But whether it\u2019s personal or professional, what are some things that I want to have happen. And then, that was awesome, what are some things that I\u2019m grateful for? And it\u2019s usually a little bit of a reflection on what I just wanted to have happen. And I\u2019m really thankful for all the things that Kate has taught me in my life. Or I have an elderly cat, Dexter. He\u2019s in his sort of end of life horizon. And I\u2019m really grateful for every day hanging out with Dexter if I\u2019m at home. And he\u2019s done a lot for me. And five or ten things and I sometimes write those down, sometimes just say them to myself depending on what kind of time I\u2019ve got. There you go.",
+                    "qas": [
+                        {
+                            "question": "How does gratitude manifest?",
+                            "answers": [
+                                {
+                                    "answer_start": 94,
+                                    "text": "I put gratitude and visualizing gratitude. So I visualize some of the things that I want to happen in my day and in my life. "
+                                }
+                            ],
+                            "id": "93803ec5-3270-4c1f-a2ab-d8b7f3cd6d83"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 # Tim Ferris Podcast Transcript NLP Project
-## Dataset: The Tim Ferriss Show
+## Dataset: [The Tim Ferriss Show Transcripts](https://tim.blog/2018/09/20/all-transcripts-from-the-tim-ferriss-show/)
 ### What is the problem you are attempting to solve?
 #### Access knowledge from Tim Ferriss Show Podcast fast whenever you need it
 The thing is, you listen to a lot of podcasts of the Tim Ferriss Show and there are a lot of things in there you would like to apply to your life but you mostly forget about it after some while.

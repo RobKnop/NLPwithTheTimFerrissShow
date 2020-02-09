@@ -1,5 +1,5 @@
 # Tim Ferris Podcast Transcript NLP Project
-## Closed domain QnA with Tim Ferriss
+## Dataset: The Tim Ferriss Show
 ### What is the problem you are attempting to solve?
 #### Access knowledge from Tim Ferriss Show Podcast fast whenever you need it
 The thing is, you listen to a lot of podcasts of the Tim Ferriss Show and there are a lot of things in there you would like to apply to your life but you mostly forget about it after some while.
@@ -8,7 +8,7 @@ Sometimes you are in a specific situation or you have a challenge to tackle and 
 ## Content
 1. Topic modeling and extraction
 2. Clustering podcasts with K-Means
-3. Build QnA model 
+3. Build basic QnA model 
 
 ## Project Setup
 ### Using venv:

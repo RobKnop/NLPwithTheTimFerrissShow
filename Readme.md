@@ -15,4 +15,4 @@ Sometimes you are in a specific situation or you have a challenge to tackle and 
 1. ```$ source venv-timNlp/bin/activate```
 2. ```$ deactivate```
 ### Starting Jupyter Notebooks
-- ```$ jupyter notenook```
+- ```$ jupyter notebook```
